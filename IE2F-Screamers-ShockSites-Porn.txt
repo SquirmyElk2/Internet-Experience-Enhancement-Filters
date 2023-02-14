@@ -524,3 +524,17 @@ google.*##a[href*="strawpoil.me"]:nth-ancestor(2)
 google.com###search .g:has-text(strawpoil)
 google.*##a[href*="pnrtscr.com"]:nth-ancestor(2)
 google.com###search .g:has-text(pnrtscr)
+
+!Eliminate option to view NSFW screenshots on VNDB
+vndb.org###screenshots > .mainopts
+
+!Block Mr. Hands Shock Site from Google Search. Does not block image search. If you are looking for the song "Mr. Handsome" by Ritchie Everett, Remove this filter.
+google.com###search .g:has-text(Mr. Hands)
+google.com###search .g:has-text(Mr. hands)
+google.com###search .g:has-text(mr. hands)
+google.com###search .g:has-text(Mr Hands)
+google.com###search .g:has-text(Mr hands)
+google.com###search .g:has-text(mr hands)
+google.com###search .g:has-text(MrHands)
+google.com###search .g:has-text(Mrhands)
+google.com###search .g:has-text(mrhands)
