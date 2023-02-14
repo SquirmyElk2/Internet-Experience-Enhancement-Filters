@@ -47,8 +47,6 @@ wikipedia.org/wiki/CP^$document
 wikipedia.org/wiki/*Pornography*^$document
 wikipedia.org/wiki/*Pornographic*^$document
 wikimedia.org/wiki/File:Gnaa-logo.png^$document
-!Optional Wikipedia Blockings
-wikipedia.org/wiki/Costumed_performer^$document
 !Wayback Machine Shock Sites
 archive.org/details/clownsong^$document
 archive.org/search.php?query=subject%3A%22clownsong%22^$document
@@ -296,6 +294,7 @@ jockbutt.com
 kemono.party
 theannoyingsite.com
 winterrowd.com
+funny-pranks.net
 reddit.com/r/WTF^$document
 reddit.com/r/SpammedDomains/^$document
 reddit.com/r/tipofmypenis/^$document
