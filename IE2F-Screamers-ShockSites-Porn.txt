@@ -1,0 +1,526 @@
+zoy.org
+nimp.org
+loldongs.eu
+feenode.net
+knowyourmeme.com/types/shock-media^$document
+knowyourmeme.com/memes/fortniteburgernet^$document
+knowyourmeme.com/memes/spritecranberrynet^$document
+knowyourmeme.com/memes/fortnite-burger^$document
+knowyourmeme.com/memes/internet-screamers^$document
+knowyourmeme.com/memes/meatspin^$document
+knowyourmeme.com/memes/momo-challenge^$document
+knowyourmeme.com/memes/online-pornography^$document
+!Wikipedia, Do not look any of these up.
+wikipedia.org/wiki/2_Girls_1_Cup^$document
+!The porn film the former is based off of, do not look it up
+wikipedia.org/wiki/Hungry_Bitches^$document
+wikipedia.org/wiki/Meatspin^$document
+wikipedia.org/wiki/Coprophilia^$document
+wikipedia.org/wiki/Shock_site^$document
+wikipedia.org/wiki/Human_penis_size^$document
+wikipedia.org/wiki/Condom^$document
+wikipedia.org/wiki/Micropenis^$document
+wikipedia.org/wiki/Buried_penis^$document
+wikipedia.org/wiki/Webbed_penis^$document
+wikipedia.org/wiki/Penis_reduction^$document
+wikipedia.org/wiki/Macropenis^$document
+wikipedia.org/wiki/Penis_enlargement^$document
+wikipedia.org/wiki/Phimosis^$document
+wikipedia.org/wiki/Vasectomy^$document
+wikipedia.org/wiki/Vasectomy_reversal^$document
+wikipedia.org/wiki/Post-vasectomy_pain_syndrome^$document
+wikipedia.org/wiki/Futanari^$document
+wikipedia.org/wiki/Animegao_kigurumi^$document
+wikipedia.org/wiki/Chancroid^$document
+wikipedia.org/wiki/Chancre^$document
+wikipedia.org/wiki/Syphilis^$document
+wikipedia.org/wiki/Anorchia^$document
+wikipedia.org/wiki/LemonParty^$document
+wikipedia.org/wiki/Goatse.cx^$document
+wikipedia.org/wiki/Gay_Nigger_Association_of_America^$document
+wikipedia.org/wiki/Goatse_Security^$document
+wikipedia.org/wiki/Weev^$document
+wikipedia.org/wiki/Sam_Hocevar^$document
+wikipedia.org/wiki/Category:Shock_sites^$document
+wikipedia.org/wiki/Enumclaw_horse_sex_case^$document
+wikipedia.org/wiki/CP^$document
+wikipedia.org/wiki/*Pornography*^$document
+wikipedia.org/wiki/*Pornographic*^$document
+wikimedia.org/wiki/File:Gnaa-logo.png^$document
+!Optional Wikipedia Blockings
+wikipedia.org/wiki/Costumed_performer^$document
+!Wayback Machine Shock Sites
+archive.org/details/clownsong^$document
+archive.org/search.php?query=subject%3A%22clownsong%22^$document
+archive.org/search.php?query=clownsong^$document
+web.archive.org/web/*/clownsong^$document
+clownsong.com/$document,domain=web.archive.org
+web.archive.org/web/*/clownsong.com^$document
+thomasbh.tumblr.com/$document,domain=web.archive.org
+web.archive.org/web/*/thomasbh.tumblr.com^$document
+web.archive.org/web/*/thomasbh.tumblr^$document
+web.archive.org/web/*/thomasbh^$document
+howtotroll.org/$document,domain=web.archive.org
+web.archive.org/web/*/howtotroll.org^$document
+web.archive.org/web/*/howtotroll^$document
+lm.loldongs.eu/$document,domain=web.archive.org
+web.archive.org/web/*/lm.loldongs.eu^$document
+web.archive.org/web/*/lm.loldongs^$document
+loldongs.eu/$document,domain=web.archive.org
+web.archive.org/web/*/loldongs.eu^$document
+web.archive.org/web/*/loldongs^$document
+zoy.org/$document,domain=web.archive.org
+web.archive.org/web/*/zoy.org^$document
+web.archive.org/web/*/zoy^$document
+doom3.zoy.org/$document,domain=web.archive.org
+web.archive.org/web/*/doom3.zoy.org^$document
+web.archive.org/web/*/doom3.zoy^$document
+halflife2.zoy.org/$document,domain=web.archive.org
+web.archive.org/web/*/halflife2.zoy.org^$document
+web.archive.org/web/*/halflife2^$document
+freeipods.zoy.org/$document,domain=web.archive.org
+web.archive.org/web/*/freeipods.zoy.org^$document
+web.archive.org/web/*/freeipods.zoy^$document
+web.archive.org/web/*/freeipods^$document
+softmeasure.zoy.org/$document,domain=web.archive.org
+web.archive.org/web/*/softmeasure.zoy.org^$document
+web.archive.org/web/*/softmeasure.zoy^$document
+web.archive.org/web/*/softmeasure^$document
+lastmeasure.zoy.org/$document,domain=web.archive.org
+web.archive.org/web/*/lastmeasure.zoy.org^$document
+web.archive.org/web/*/lastmeasure.zoy^$document
+web.archive.org/web/*/lastmeasure^$document
+feenode.net/$document,domain=web.archive.org
+web.archive.org/web/*/feenode.net^$document
+web.archive.org/web/*/feenode^$document
+offended.feenode.net/$document,domain=web.archive.org
+web.archive.org/web/*/offended.feenode.net^$document
+web.archive.org/web/*/offended^$document
+youareanidiot.org/$document,domain=web.archive.org
+web.archive.org/web/*/youareanidiot.org^$document
+web.archive.org/web/*/youareanidiot^$document
+web.archive.org/web/*/idiot^$document
+!Goggle is blacklisted but just block it anyway
+goggle.com/$document,domain=web.archive.org
+web.archive.org/web/*/goggle.com^$document
+web.archive.org/web/*/goggle^$document
+meatspin.com/$document,domain=web.archive.org
+web.archive.org/web/*/meatspin.com^$document
+web.archive.org/web/*/meatspin^$document
+meatspin.cc/$document,domain=web.archive.org
+web.archive.org/web/*/meatspin.cc^$document
+meatspin.biz/$document,domain=web.archive.org
+web.archive.org/web/*/meatspin.biz^$document
+meatspin.fr/$document,domain=web.archive.org
+web.archive.org/web/*/meatspin.fr^$document
+happypuppies.net/$document,domain=web.archive.org
+web.archive.org/web/*/happypuppies.net^$document
+web.archive.org/web/*/happypuppies^$document
+!Wayback Machine 2girls1cup
+2girls1cup.com/$document,domain=web.archive.org
+web.archive.org/web/*/2girls1cup.com^$document
+web.archive.org/web/*/2girls1cup^$document
+web.archive.org/web/*/2girls^$document
+web.archive.org/web/*/1cup^$document
+2girls1cup.cc/$document,domain=web.archive.org
+web.archive.org/web/*/2girls1cup.cc^$document
+2girls1cup-free.com/$document,domain=web.archive.org
+web.archive.org/web/*/2girls1cup-free.com^$document
+2girls1cup.nl/$document,domain=web.archive.org
+web.archive.org/web/*/2girls1cup.nl^$document
+2girls1cup.ws/$document,domain=web.archive.org
+web.archive.org/web/*/2girls1cup.ws^$document
+2girls1cup.ca/$document,domain=web.archive.org
+web.archive.org/web/*/2girls1cup.ca^$document
+!Continue Wayback Machine Shock Sites
+klerck.org/$document,domain=web.archive.org
+web.archive.org/web/*/klerck.org^$document
+web.archive.org/web/*/klerck^$document
+klerckisdead.com/$document,domain=web.archive.org
+web.archive.org/web/*/klerckisdead.com^$document
+web.archive.org/web/*/klerckisdead^$document
+milkandcookies.com/$document,domain=web.archive.org
+web.archive.org/web/*/milkandcookies.com^$document
+web.archive.org/web/*/milkandcookies^$document
+nimp.org/$document,domain=web.archive.org
+web.archive.org/web/*/nimp.org^$document
+web.archive.org/web/*/nimp^$document
+on.nimp.org/$document,domain=web.archive.org
+web.archive.org/web/*/on.nimp.org^$document
+goatse.cx/$document,domain=web.archive.org
+web.archive.org/web/*/goatse.cx^$document
+web.archive.org/web/*/goatse^$document
+diddlers.info/$document,domain=web.archive.org
+web.archive.org/web/*/diddlers.info^$document
+web.archive.org/web/*/diddlers^$document
+ooskar.com/$document,domain=web.archive.org
+web.archive.org/web/*/ooskar.com^$document
+web.archive.org/web/*/ooskar^$document
+1ooskar.com/$document,domain=web.archive.org
+web.archive.org/web/*/1ooskar.com^$document
+web.archive.org/web/*/1ooskar^$document
+nobrain.dk/$document,domain=web.archive.org
+web.archive.org/web/*/nobrain.dk^$document
+web.archive.org/web/*/nobrain^$document
+sourmath.com/$document,domain=web.archive.org
+web.archive.org/web/*/sourmath.com^$document
+web.archive.org/web/*/sourmath^$document
+5o.dk/$document,domain=web.archive.org
+web.archive.org/web/*/5o.dk^$document
+web.archive.org/web/*/5o^$document
+0xad.net/$document,domain=web.archive.org
+web.archive.org/web/*/0xad.net^$document
+web.archive.org/web/*/0xad^$document
+agor.io/$document,domain=web.archive.org
+web.archive.org/web/*/agor.io^$document
+akk.li/$document,domain=web.archive.org
+web.archive.org/web/*/akk.li^$document
+strawpoli.me/$document,domain=web.archive.org
+web.archive.org/web/*/strawpoli.me^$document
+web.archive.org/web/*/strawpoli^$document
+strawpoil.me/$document,domain=web.archive.org
+web.archive.org/web/*/strawpoil.me^$document
+web.archive.org/web/*/strawpoil^$document
+pnrtscr.com/$document,domain=web.archive.org
+web.archive.org/web/*/pnrtscr.com^$document
+web.archive.org/web/*/pnrtscr^$document
+dagobah.net/$document,domain=web.archive.org
+web.archive.org/web/*/dagobah.net^$document
+ketma.net/$document,domain=web.archive.org
+web.archive.org/web/*/ketma.net^$document
+kekma.net/$document,domain=web.archive.org
+web.archive.org/web/*/kekma.net^$document
+web.archive.org/web/*/kekma^$document
+kekma.ga/$document,domain=web.archive.org
+web.archive.org/web/*/kekma.ga^$document
+web.archive.org/web/*/kekmaga^$document
+fortniteburger.net/$document,domain=web.archive.org
+web.archive.org/web/*/fortniteburger.net^$document
+web.archive.org/web/*/fortniteburger^$document
+imgur.com/nhcCs90/$document,domain=web.archive.org
+!End Wayback Machine Shock Sites
+jvflux.com
+jeuxvideo.com
+szworld.net
+scaryforkids.com
+playscarymazegame.net
+scarymaze.app
+scary-maze.com
+screenprank.com
+jumpscaregames.com
+gnaa.livejournal.com
+2girls1cup.ca
+gnaa.eu
+gnaa.press
+gnaa.us
+klerck.org
+milkandcookies.com
+fortniteburger.net
+spritecranberry.net
+bigfootproof.com
+loltrain.net
+adultsinfo.com
+pivpiv.dk
+96.lt
+herobrine.com
+25bobux.org
+https://knowyourmeme.com/memes/scary-maze-game^$document
+https://knowyourmeme.com/memes/scary-prank-reaction-videos^$document
+scaryandfun.com
+lomando.com
+agor.io
+akk.li
+strawpoli.me
+strawpoil.me
+pnrtscr.com
+twilightfoundry.com
+kiwifarms.net
+kiwifarms.is
+meatspin.com
+meatspin.cc
+meatspin.biz
+meatspin.fr
+chaosvod.wo.to
+leekspin.com
+lemonparty.org
+lemonparty.biz
+thomasbh.tumblr.com
+shockchan.com
+bestshockers.com
+shock.watch
+1ooskar.com
+ooskar.com
+5o.dk
+strawpoli.me
+strawpoil.me
+pnrtscr.com
+meatspin.com
+meatspin.cc
+meatspin.biz
+meatspin.fr
+chaosvod.wo.to
+diddlers.info
+goatsedance.com
+impse.cx
+klerckisdead.com
+ketma.net
+kekma.net
+kekma.ga
+epicroadtrips.us
+1d4chan.org
+!Porn
+redtube.com
+xhamster.com
+xvideos.com
+pornhub.com
+youporn.com
+ixxx.com
+xxx.com
+xnxx.com
+freehdvideos.xxx
+nhentai.net
+vrporn.com
+hentai-img.com
+ehentai.org
+d.eev.ee
+danbooru.donmai.us
+rule34.paheal.net
+rule34.xxx
+reddit.tube
+nastyrubbergirls.com
+cgmaskdoll.com
+xoxoni.com
+crazy-girls.online
+brazzers.com
+jockbutt.com
+kemono.party
+theannoyingsite.com
+winterrowd.com
+reddit.com/r/WTF^$document
+reddit.com/r/SpammedDomains/^$document
+reddit.com/r/tipofmypenis/^$document
+reddit.com/r/internetcollection/^$document
+reddit.com/r/sourmath/^$document
+reddit.com/r/ftm/^$document
+reddit.com/domain/howtotroll.org/^$document
+reddit.com/r/funny/comments/nffyq/how_to_troll_the_internet_the_video_series/^$document
+reddit.com/r/reddit.com/comments/hc7cp/be_an_internet_trolling_master/^$document
+reddit.com/r/offbeat/comments/hsd81/how_to_troll_like_a_pro/^$document
+reddit.com/r/reddit.com/comments/az5ct/ok_so_i_just_clicked_what_appears_to_be_the_most/^$document
+reddit.com/r/AMA/comments/h0ess/i_founded_the_gnaa_ama/^$document
+reddit.com/r/GiIvaSunner/comments/51ei3w/original_source_of_loud_nigra/^$document
+google.com###search .g:has-text(Loud Nigra)
+google.com###search .g:has-text(Loud nigra)
+google.com###search .g:has-text(loud nigra)
+forums.lostmediawiki.com/thread/591/lmw-arg^$document
+groups.google.com/forum/#!topic/alt.slack/9NJrVd9MtA0^$document
+!Blocking Shafou on Wayback Machine. Partially works (Still shows the snapshot page, but UBlock blocks when loading a snapshot) when using Wayback Machine from web.archive.org (Works completely when used straight from archive.org)
+shafou.com/$document,domain=web.archive.org
+web.archive.org/web/*/shafou.com^$document
+web.archive.org/web/*/shafou^$document
+!Possibly unrelated domains with same name.
+shafou.net
+shafou.net/$document,domain=web.archive.org
+web.archive.org/web/*/shafou.net^$document
+shafou.cn
+shafou.cn/$document,domain=web.archive.org
+web.archive.org/web/*/shafou.cn^$document
+!Block Wayback Machine Porn, remove first line if you are trying to go to a non-porn domain with the word "Girl" in it.
+web.archive.org/web/*/girl^$document
+web.archive.org/web/*/xxx^$document
+web.archive.org/web/*/porn^$document
+
+!Block Certain YouTube Hashtags
+youtube.com/hashtag/jumpscares^$document
+
+!Block shock sites from google search. Text only, non domain filters, do not block image search.
+google.*##a[href*="feenode.net"]:nth-ancestor(2)
+google.com###search .g:has-text(feenode)
+google.com###search .g:has-text(last measure)
+google.com###search .g:has-text(lastmeasure)
+google.com###search .g:has-text(LastMeasure)
+google.com###search .g:has-text(Lastmeasure)
+google.com###search .g:has-text(Last Measure)
+google.com###search .g:has-text(softmeasure)
+google.*##a[href*="shockchan.com"]:nth-ancestor(2)
+google.*##a[href*="lolshock.com"]:nth-ancestor(2)
+google.*##a[href*="milkandcookies.com"]:nth-ancestor(2)
+google.*##a[href*="screamer.wiki"]:nth-ancestor(2)
+google.com###search .g:has-text(Gay Nigger)
+google.*##a[href*="wikimedia.org/wiki/File:Gnaa-logo.png"]:nth-ancestor(2)
+google.com###search .g:has-text(Sam Hocevar)
+google.com###search .g:has-text(Samuel Hocevar)
+google.com###search .g:has-text(sam hocevar)
+google.com###search .g:has-text(meatspin)
+google.com###search .g:has-text(Meatspin)
+google.com###search .g:has-text(MeatSpin)
+google.com###search .g:has-text(MEATSPIN)
+google.com###search .g:has-text(meat spin)
+google.com###search .g:has-text(Meat spin)
+google.com###search .g:has-text(Meat Spin)
+google.com###search .g:has-text(screamer cactus)
+google.com###search .g:has-text(Screamer Cactus)
+google.com###search .g:has-text(Screamer cactus)
+google.com###search .g:has-text(cactus screamer)
+google.com###search .g:has-text(Cactus Screamer)
+google.com###search .g:has-text(Cactus screamer)
+google.com###search .g:has-text(lemonparty)
+google.*##a[href*="lemonparty.org"]:nth-ancestor(2)
+google.*##a[href*="lemonparty.biz"]:nth-ancestor(2)
+google.com###search .g:has-text(ooskar)
+google.com###search .g:has-text(sourmath)
+google.com###search .g:has-text(Sourmath)
+google.com###search .g:has-text(SourMath)
+google.com###search .g:has-text(Sour Math)
+google.com###search .g:has-text(SourMath)
+google.com###search .g:has-text(nobrain.dk)
+google.*##a[href*="ketma.net"]:nth-ancestor(2)
+google.*##a[href*="kekma.net"]:nth-ancestor(2)
+google.*##a[href*="kekma.ga"]:nth-ancestor(2)
+google.com###search .g:has-text(ketma.net)
+google.com###search .g:has-text(kekma.net)
+google.com###search .g:has-text(kekma.ga)
+google.*##a[href*="ooskar.com"]:nth-ancestor(2)
+google.*##a[href*="1ooskar.com"]:nth-ancestor(2)
+google.*##a[href*="nobrain.dk"]:nth-ancestor(2)
+google.*##a[href*="sourmath.com"]:nth-ancestor(2)
+google.*##a[href*="5o.dk"]:nth-ancestor(2)
+google.*##a[href*="bigfootproof.com"]:nth-ancestor(2)
+google.*##a[href*="Bigfootproof.com"]:nth-ancestor(2)
+google.*##a[href*="0xad.net"]:nth-ancestor(2)
+google.*##a[href*="shafou.com"]:nth-ancestor(2)
+google.com###search .g:has-text(shafou)
+google.com###search .g:has-text(Shafou)
+!Block 2 Girls on Google Search. Does not block image search. In general, don't look it up anyway as you will find reaction videos which may not be blocked. Instead, go to "https://en.wikipedia.org/wiki/Scat_singing"
+google.com###search .g:has-text(2 girls)
+google.com###search .g:has-text(2 Girls)
+google.com###search .g:has-text(2 GIRLS)
+google.com###search .g:has-text(2girls1cup)
+google.com###search .g:has-text(2g1c)
+google.com###search .g:has-text(2G1C)
+google.com###search .g:has-text(Two Girls One Cup)
+google.com###search .g:has-text(two girls one cup)
+google.com###search .g:has-text(2girls1finger)
+google.com###search .g:has-text(Fortniteburger.net)
+google.com###search .g:has-text(fortniteburger.net)
+google.*##a[href*="fortniteburger.net"]:nth-ancestor(2)
+google.com###search .g:has-text(encyclopedia dramatica)
+google.com###search .g:has-text(Encyclopedia Dramatica)
+google.com###search .g:has-text(pain series)
+google.com###search .g:has-text(Pain Series)
+!Block zoy from google search
+google.*##a[href*="zoy.org"]:nth-ancestor(2)
+google.com###search .g:has-text(zoy.org)
+google.com###search .g:has-text(nimp.org)
+google.*##a[href*="nimp.org"]:nth-ancestor(2)
+!Block You Are An Idiot Domains from Google Search
+google.*##a[href*="pivpiv.dk"]:nth-ancestor(2)
+google.*##a[href*="youareanidiot.org"]:nth-ancestor(2)
+google.*##a[href*="theuselessweb.site"]:nth-ancestor(2)
+
+!Block Typosquats from Google Search
+google.*##a[href*="agor.io"]:nth-ancestor(2)
+google.com###search .g:has-text(agor.io)
+google.*##a[href*="strawpoli.me"]:nth-ancestor(2)
+google.com###search .g:has-text(strawpoli)
+google.*##a[href*="strawpoil.me"]:nth-ancestor(2)
+google.com###search .g:has-text(strawpoil)
+google.*##a[href*="pnrtscr.com"]:nth-ancestor(2)
+google.com###search .g:has-text(pnrtscr)
+
+!Block Porn on Google Search. Does not block image search.
+google.com###search .g:has-text(porn)
+google.com###search .g:has-text(xnxx)
+google.com###search .g:has-text(sex videos)
+google.com###search .g:has-text(Sex Videos)
+google.*##a[href*="redtube.com"]:nth-ancestor(2)
+google.*##a[href*="xhamster.com"]:nth-ancestor(2)
+google.*##a[href*="xvideos.com"]:nth-ancestor(2)
+google.*##a[href*="xvideos2.com"]:nth-ancestor(2)
+google.*##a[href*="pornhub.com"]:nth-ancestor(2)
+google.*##a[href*="youporn.com"]:nth-ancestor(2)
+google.*##a[href*="ixxx.com"]:nth-ancestor(2)
+google.*##a[href*="xxx.com"]:nth-ancestor(2)
+google.*##a[href*="xnxx.com"]:nth-ancestor(2)
+google.*##a[href*="freehdvideos.xxx"]:nth-ancestor(2)
+google.*##a[href*="nhentai.net"]:nth-ancestor(2)
+google.*##a[href*="hentai-img.com"]:nth-ancestor(2)
+
+!Straight up block the words "Shock Site" from Google
+google.com###search .g:has-text(shock site)
+google.com###search .g:has-text(Shock Site)
+google.com###search .g:has-text(Shock site)
+google.com###search .g:has-text(shock sites)
+google.com###search .g:has-text(Shock Sites)
+google.com###search .g:has-text(Shock sites)
+
+facebook.com/Screamer.Cactus.1518^$document
+facebook.com/gaynegroes^$document
+un1x.fr
+0xad.net
+bexandre.alwaysdata.net
+
+!Porn site that disguises itself as 4chan.org and 4channel.org
+4chan.com
+4channel.com
+
+!Encyclopedia Dramatica
+encyclopediadramatica.wiki
+encyclopediadramatica.fyi
+encyclopediadramatica.ch
+encyclopediadramatica.se
+encyclopediadramatica.rs
+encyclopediadramatica.online
+
+lurkmore.com
+shock-site.wikiverse.org
+goatse-cx.wikiverse.org
+handwiki.org/wiki/Social:Shock_site^$document
+handwiki.org/wiki/Social:2_Girls_1_Cup^$document
+screamerfanbase.com
+screamer.wiki
+cemeterial.xyz
+doll-lovers-paradise.com
+reddit.com/r/APTests2020/^$document
+https://siivagunner.fandom.com/wiki/Loud_Nigra^$document
+makeuseof.com/tag/halloween-screamer-videos-pranks^$document
+mashable.com/2013/10/27/screamer-videos^$document
+hltv.org/forums/threads/970438/best-hidden-screamer-link^$document
+medium.com/@rajesh.jhamb/prank-websites-on-the-internet-top-10-prank-links-1d6456c4e7a1^$document
+freakylogo.fandom.com
+screamer.fandom.com
+screamer-wiki.fandom.com
+reddit.com/r/screamer/^$document
+
+!Just takes you to a random screamer site from a pool list of sites.
+screamgenerator.blogspot.com
+ghostsingles.com
+https://tvtropes.org/pmwiki/pmwiki.php/ScreamerPrank/WebOriginal^$document
+https://tvtropes.org/pmwiki/pmwiki.php/Main/ScreamerPrank^$document
+https://tvtropes.org/pmwiki/pmwiki.php/SchmuckBait/WebOriginal^$document
+https://tvtropes.org/pmwiki/pmwiki.php/Quotes/ShockSite^$document
+https://tvtropes.org/pmwiki/pmwiki.php/Laconic/ShockSite^$document
+https://allthetropes.fandom.com/wiki/Shock_Site/Quotes^$document
+https://www.deviantart.com/fhashstark^$document
+https://www.urbandictionary.com/define.php?term=last+measure^$document
+https://www.urbandictionary.com/define.php?term=Offended^$document
+https://www.urbandictionary.com/define.php?term=Encyclopedia%20Dramatica^$document
+https://www.urbandictionary.com/define.php?term=Pain%20Series^$document
+https://www.urbandictionary.com/define.php?term=The%20Pain%20Series^$document
+https://www.urbandictionary.com/define.php?term=2%20girls%201%20cup^$document
+https://www.urbandictionary.com/define.php?term=Nimp^$document
+https://www.urbandictionary.com/define.php?term=GNAA^$document
+https://www.urbandictionary.com/define.php?term=Gay%20Nigger%20Association%20of%20America^$document
+https://www.urbandictionary.com/define.php?term=Kekma*^$document
+https://www.urbandictionary.com/define.php?term=Fortnite%20Burger^$document
+definedictionarymeaning.com/topic/37986/lemon-party/7^$document
+
+!Block Typosquats from Google Search
+google.*##a[href*="agor.io"]:nth-ancestor(2)
+google.com###search .g:has-text(agor.io)
+google.*##a[href*="strawpoli.me"]:nth-ancestor(2)
+google.com###search .g:has-text(strawpoli)
+google.*##a[href*="strawpoil.me"]:nth-ancestor(2)
+google.com###search .g:has-text(strawpoil)
+google.*##a[href*="pnrtscr.com"]:nth-ancestor(2)
+google.com###search .g:has-text(pnrtscr)
