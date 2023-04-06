@@ -197,6 +197,11 @@ web.archive.org/web/*/fortniteburger.net^$document
 web.archive.org/web/*/fortniteburger^$document
 imgur.com/nhcCs90/$document,domain=web.archive.org
 !End Wayback Machine Shock Sites
+!Internet Archive Porn
+archive.org/details/hentaiarchive^$document
+archive.org/details/adultfilm^$document
+archive.org/details/adultimages^$document
+!End Internet Archive Porn
 jvflux.com
 jeuxvideo.com
 szworld.net
