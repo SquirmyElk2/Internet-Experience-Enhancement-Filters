@@ -235,6 +235,7 @@ agor.io
 akk.li
 strawpoli.me
 strawpoil.me
+!Typosquat for Lightshot (prntscr.com)
 pnrtscr.com
 twilightfoundry.com
 kiwifarms.net
@@ -254,14 +255,6 @@ shock.watch
 1ooskar.com
 ooskar.com
 5o.dk
-strawpoli.me
-strawpoil.me
-pnrtscr.com
-meatspin.com
-meatspin.cc
-meatspin.biz
-meatspin.fr
-chaosvod.wo.to
 diddlers.info
 goatsedance.com
 impse.cx
@@ -293,6 +286,7 @@ rule34.xxx
 reddit.tube
 nastyrubbergirls.com
 cgmaskdoll.com
+kigurumimask.web.fc2.com
 xoxoni.com
 crazy-girls.online
 brazzers.com
@@ -308,6 +302,8 @@ reddit.com/r/tipofmypenis/^$document
 reddit.com/r/internetcollection/^$document
 reddit.com/r/sourmath/^$document
 reddit.com/r/ftm/^$document
+reddit.com/r/ScreamerWiki/^$document
+reddit.com/r/KigurumiFans/^$document
 reddit.com/domain/howtotroll.org/^$document
 reddit.com/r/funny/comments/nffyq/how_to_troll_the_internet_the_video_series/^$document
 reddit.com/r/reddit.com/comments/hc7cp/be_an_internet_trolling_master/^$document
@@ -520,16 +516,6 @@ https://www.urbandictionary.com/define.php?term=Gay%20Nigger%20Association%20of%
 https://www.urbandictionary.com/define.php?term=Kekma*^$document
 https://www.urbandictionary.com/define.php?term=Fortnite%20Burger^$document
 definedictionarymeaning.com/topic/37986/lemon-party/7^$document
-
-!Block Typosquats from Google Search
-google.*##a[href*="agor.io"]:nth-ancestor(2)
-google.com###search .g:has-text(agor.io)
-google.*##a[href*="strawpoli.me"]:nth-ancestor(2)
-google.com###search .g:has-text(strawpoli)
-google.*##a[href*="strawpoil.me"]:nth-ancestor(2)
-google.com###search .g:has-text(strawpoil)
-google.*##a[href*="pnrtscr.com"]:nth-ancestor(2)
-google.com###search .g:has-text(pnrtscr)
 
 !Eliminate option to view NSFW screenshots on VNDB
 vndb.org###screenshots > .mainopts
