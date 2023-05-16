@@ -29,6 +29,12 @@ wikipedia.org/wiki/Phimosis^$document
 wikipedia.org/wiki/Vasectomy^$document
 wikipedia.org/wiki/Vasectomy_reversal^$document
 wikipedia.org/wiki/Post-vasectomy_pain_syndrome^$document
+wikipedia.org/wiki/Intersex^$document
+wikipedia.org/wiki/Androgen_insensitivity_syndrome^$document
+wikipedia.org/wiki/Disorders_of_sex_development^$document
+wikipedia.org/wiki/Klinefelter_syndrome^$document
+wikipedia.org/wiki/True_hermaphroditism^$document
+wikipedia.org/wiki/Pseudohermaphroditism^$document
 wikipedia.org/wiki/Futanari^$document
 wikipedia.org/wiki/Animegao_kigurumi^$document
 wikipedia.org/wiki/Chancroid^$document
