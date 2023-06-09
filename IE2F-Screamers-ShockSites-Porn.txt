@@ -298,6 +298,13 @@ crazy-girls.online
 brazzers.com
 jockbutt.com
 slutload.net
+chaturbate.com
+recordbate.com
+camwhoresbay.com
+cambro.tv
+camwhores.tv
+nudevista.com
+fap18.net
 kemono.party
 theannoyingsite.com
 winterrowd.com
@@ -453,6 +460,13 @@ google.*##a[href*="xnxx.com"]:nth-ancestor(2)
 google.*##a[href*="freehdvideos.xxx"]:nth-ancestor(2)
 google.*##a[href*="nhentai.net"]:nth-ancestor(2)
 google.*##a[href*="hentai-img.com"]:nth-ancestor(2)
+google.*##a[href*="chaturbate.com"]:nth-ancestor(2)
+google.*##a[href*="recordbate.com"]:nth-ancestor(2)
+google.*##a[href*="camwhoresbay.com"]:nth-ancestor(2)
+google.*##a[href*="cambro.tv"]:nth-ancestor(2)
+google.*##a[href*="camwhores.tv"]:nth-ancestor(2)
+google.*##a[href*="nudevista.com"]:nth-ancestor(2)
+google.*##a[href*="fap18.net"]:nth-ancestor(2)
 
 !Straight up block the words "Shock Site" from Google
 google.com###search .g:has-text(shock site)
