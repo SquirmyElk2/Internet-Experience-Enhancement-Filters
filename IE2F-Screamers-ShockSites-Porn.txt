@@ -331,6 +331,7 @@ reddit.com/r/internetcollection/^$document
 reddit.com/r/sourmath/^$document
 reddit.com/r/ftm/^$document
 reddit.com/r/ScreamerWiki/^$document
+reddit.com/r/Animegao/^$document
 reddit.com/r/Kigurumi/^$document
 reddit.com/r/KigurumiFans/^$document
 reddit.com/domain/howtotroll.org/^$document
@@ -340,6 +341,9 @@ reddit.com/r/offbeat/comments/hsd81/how_to_troll_like_a_pro/^$document
 reddit.com/r/reddit.com/comments/az5ct/ok_so_i_just_clicked_what_appears_to_be_the_most/^$document
 reddit.com/r/AMA/comments/h0ess/i_founded_the_gnaa_ama/^$document
 reddit.com/r/GiIvaSunner/comments/51ei3w/original_source_of_loud_nigra/^$document
+reddit.com/r/*/search?q=*porn^$document
+reddit.com/r/*/search?q=*kigurumi^$document
+reddit.com/r/*/search?q=*animegao^$document
 google.com###search .g:has-text(Loud Nigra)
 google.com###search .g:has-text(Loud nigra)
 google.com###search .g:has-text(loud nigra)
