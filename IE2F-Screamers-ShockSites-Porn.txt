@@ -179,6 +179,11 @@ web.archive.org/web/*/nobrain^$document
 sourmath.com/$document,domain=web.archive.org
 web.archive.org/web/*/sourmath.com^$document
 web.archive.org/web/*/sourmath^$document
+lemonparty.org/$document,domain=web.archive.org
+web.archive.org/web/*/lemonparty.org^$document
+web.archive.org/web/*/lemonparty^$document
+lemonparty.biz/$document,domain=web.archive.org
+web.archive.org/web/*/lemonparty.biz^$document
 5o.dk/$document,domain=web.archive.org
 web.archive.org/web/*/5o.dk^$document
 web.archive.org/web/*/5o^$document
