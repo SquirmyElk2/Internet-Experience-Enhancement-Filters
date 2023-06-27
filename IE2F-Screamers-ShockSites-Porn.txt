@@ -331,6 +331,7 @@ reddit.com/r/internetcollection/^$document
 reddit.com/r/sourmath/^$document
 reddit.com/r/ftm/^$document
 reddit.com/r/ScreamerWiki/^$document
+reddit.com/r/Kigurumi/^$document
 reddit.com/r/KigurumiFans/^$document
 reddit.com/domain/howtotroll.org/^$document
 reddit.com/r/funny/comments/nffyq/how_to_troll_the_internet_the_video_series/^$document
