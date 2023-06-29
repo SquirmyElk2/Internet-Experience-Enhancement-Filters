@@ -37,6 +37,7 @@ wikipedia.org/wiki/True_hermaphroditism^$document
 wikipedia.org/wiki/Pseudohermaphroditism^$document
 wikipedia.org/wiki/Futanari^$document
 wikipedia.org/wiki/Animegao_kigurumi^$document
+wikipedia.org/wiki/*Kigurumi^$document
 wikipedia.org/wiki/Chancroid^$document
 wikipedia.org/wiki/Chancre^$document
 wikipedia.org/wiki/Syphilis^$document
@@ -63,6 +64,13 @@ wikipedia.org/wiki/Vaginoplasty^$document
 wikipedia.org/wiki/Labiaplasty^$document
 wikipedia.org/wiki/Chondrolaryngoplasty^$document
 wikimedia.org/wiki/File:Gnaa-logo.png^$document
+!Wayback Machine Porn
+https://archive.org/search?query=*porn*^$document
+https://archive.org/details/tv?q=*porn*^$document
+https://archive.org/search.php?query=*porn*^$document
+https://archive.org/search?query=*kigurumi*^$document
+https://archive.org/details/tv?q=*kigurumi*^$document
+https://archive.org/search.php?query=*kigurumi*^$document
 !Wayback Machine Shock Sites
 archive.org/details/clownsong^$document
 archive.org/search.php?query=subject%3A%22clownsong%22^$document
