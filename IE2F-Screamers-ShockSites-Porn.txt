@@ -64,13 +64,6 @@ wikipedia.org/wiki/Vaginoplasty^$document
 wikipedia.org/wiki/Labiaplasty^$document
 wikipedia.org/wiki/Chondrolaryngoplasty^$document
 wikimedia.org/wiki/File:Gnaa-logo.png^$document
-!Wayback Machine Porn
-https://archive.org/search?query=*porn*^$document
-https://archive.org/details/tv?q=*porn*^$document
-https://archive.org/search.php?query=*porn*^$document
-https://archive.org/search?query=*kigurumi*^$document
-https://archive.org/details/tv?q=*kigurumi*^$document
-https://archive.org/search.php?query=*kigurumi*^$document
 !Wayback Machine Shock Sites
 archive.org/details/clownsong^$document
 archive.org/search.php?query=subject%3A%22clownsong%22^$document
@@ -230,6 +223,12 @@ imgur.com/nhcCs90/$document,domain=web.archive.org
 archive.org/details/hentaiarchive^$document
 archive.org/details/adultfilm^$document
 archive.org/details/adultimages^$document
+https://archive.org/search?query=*porn*^$document
+https://archive.org/details/tv?q=*porn*^$document
+https://archive.org/search.php?query=*porn*^$document
+https://archive.org/search?query=*kigurumi*^$document
+https://archive.org/details/tv?q=*kigurumi*^$document
+https://archive.org/search.php?query=*kigurumi*^$document
 !End Internet Archive Porn
 jvflux.com
 jeuxvideo.com
