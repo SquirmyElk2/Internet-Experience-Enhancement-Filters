@@ -327,6 +327,7 @@ cambro.tv
 camwhores.tv
 nudevista.com
 fap18.net
+filmco.com
 kemono.party
 theannoyingsite.com
 winterrowd.com
@@ -495,6 +496,7 @@ google.*##a[href*="brazzers.com"]:nth-ancestor(2)
 google.*##a[href*="camwhores.tv"]:nth-ancestor(2)
 google.*##a[href*="nudevista.com"]:nth-ancestor(2)
 google.*##a[href*="fap18.net"]:nth-ancestor(2)
+google.*##a[href*="filmco.com"]:nth-ancestor(2)
 
 !Straight up block the words "Shock Site" from Google
 google.com###search .g:has-text(shock site)
