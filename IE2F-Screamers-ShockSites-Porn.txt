@@ -335,16 +335,16 @@ kemono.party
 theannoyingsite.com
 winterrowd.com
 funny-pranks.net
-reddit.com/r/WTF^$document
-reddit.com/r/SpammedDomains/^$document
-reddit.com/r/tipofmypenis/^$document
-reddit.com/r/internetcollection/^$document
-reddit.com/r/sourmath/^$document
-reddit.com/r/ftm/^$document
-reddit.com/r/ScreamerWiki/^$document
-reddit.com/r/Animegao/^$document
-reddit.com/r/Kigurumi/^$document
-reddit.com/r/KigurumiFans/^$document
+reddit.com/r/WTF*/^$document
+reddit.com/r/SpammedDomains*/^$document
+reddit.com/r/tipofmypenis*/^$document
+reddit.com/r/internetcollection*/^$document
+reddit.com/r/sourmath*/^$document
+reddit.com/r/ftm*/^$document
+reddit.com/r/ScreamerWiki*/^$document
+reddit.com/r/Animegao*/^$document
+reddit.com/r/Kigurumi*/^$document
+reddit.com/r/KigurumiFans*/^$document
 reddit.com/domain/howtotroll.org/^$document
 reddit.com/r/funny/comments/nffyq/how_to_troll_the_internet_the_video_series/^$document
 reddit.com/r/reddit.com/comments/hc7cp/be_an_internet_trolling_master/^$document
@@ -547,7 +547,7 @@ medium.com/@rajesh.jhamb/prank-websites-on-the-internet-top-10-prank-links-1d645
 freakylogo.fandom.com
 screamer.fandom.com
 screamer-wiki.fandom.com
-reddit.com/r/screamer/^$document
+reddit.com/r/screamer*/^$document
 
 !Just takes you to a random screamer site from a pool list of sites.
 screamgenerator.blogspot.com
