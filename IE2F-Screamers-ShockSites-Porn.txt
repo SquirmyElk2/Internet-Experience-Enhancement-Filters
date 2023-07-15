@@ -229,6 +229,9 @@ https://archive.org/search.php?query=*porn*^$document
 https://archive.org/search?query=*kigurumi*^$document
 https://archive.org/details/tv?q=*kigurumi*^$document
 https://archive.org/search.php?query=*kigurumi*^$document
+https://archive.org/search?query=*animegao*^$document
+https://archive.org/details/tv?q=*animegao*^$document
+https://archive.org/search.php?query=*animegao*^$document
 !End Internet Archive Porn
 jvflux.com
 jeuxvideo.com
@@ -352,6 +355,8 @@ reddit.com/r/GiIvaSunner/comments/51ei3w/original_source_of_loud_nigra/^$documen
 reddit.com/r/*/search?q=*porn^$document
 reddit.com/r/*/search?q=*kigurumi^$document
 reddit.com/r/*/search?q=*animegao^$document
+rumble.com/search/all?q=*kigurumi*^$document
+rumble.com/search/all?q=*animegao*^$document
 google.com###search .g:has-text(Loud Nigra)
 google.com###search .g:has-text(Loud nigra)
 google.com###search .g:has-text(loud nigra)
