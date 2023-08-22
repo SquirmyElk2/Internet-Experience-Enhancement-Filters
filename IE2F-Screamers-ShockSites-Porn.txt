@@ -14,6 +14,15 @@ knowyourmeme.com/memes/online-pornography^$document
 wikipedia.org/wiki/2_Girls_1_Cup^$document
 !The porn film the former is based off of, do not look it up
 wikipedia.org/wiki/Hungry_Bitches^$document
+wikipedia.org/wiki/Sexual_roleplay^$document
+wikipedia.org/wiki/Kink_(sexuality)^$document
+wikipedia.org/wiki/Sex_shop^$document
+wikipedia.org/wiki/Rule_34^$document
+wikipedia.org/wiki/Clop_(erotic_fan_art)^$document
+wikipedia.org/wiki/Yiff^$document
+wikipedia.org/wiki/Furry_fandom^$document
+wikipedia.org/wiki/*fetish^$document
+wikipedia.org/wiki/*fetishism^$document
 wikipedia.org/wiki/Meatspin^$document
 wikipedia.org/wiki/Coprophilia^$document
 wikipedia.org/wiki/Shock_site^$document
@@ -331,6 +340,8 @@ camwhores.tv
 nudevista.com
 fap18.net
 filmco.com
+kink.com
+zrstudios.moe
 kemono.party
 theannoyingsite.com
 winterrowd.com
@@ -516,6 +527,8 @@ google.*##a[href*="camwhores.tv"]:nth-ancestor(2)
 google.*##a[href*="nudevista.com"]:nth-ancestor(2)
 google.*##a[href*="fap18.net"]:nth-ancestor(2)
 google.*##a[href*="filmco.com"]:nth-ancestor(2)
+google.*##a[href*="kink.com"]:nth-ancestor(2)
+google.*##a[href*="zrstudios.moe"]:nth-ancestor(2)
 
 !Straight up block the words "Shock Site" from Google
 google.com###search .g:has-text(shock site)
