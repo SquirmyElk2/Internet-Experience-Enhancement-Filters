@@ -62,6 +62,8 @@ wikipedia.org/wiki/Enumclaw_horse_sex_case^$document
 wikipedia.org/wiki/CP^$document
 wikipedia.org/wiki/*Pornography*^$document
 wikipedia.org/wiki/*Pornographic*^$document
+wikipedia.org/wiki/Alt_porn^$document
+wikipedia.org/wiki/Panchira^$document
 wikipedia.org/wiki/Gender-affirming_surgery^$document
 wikipedia.org/wiki/Gender-affirming_surgery_(male-to-female)^$document
 wikipedia.org/wiki/Gender-affirming_surgery_(female-to-male)^$document
