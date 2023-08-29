@@ -230,6 +230,12 @@ fortniteburger.net/$document,domain=web.archive.org
 web.archive.org/web/*/fortniteburger.net^$document
 web.archive.org/web/*/fortniteburger^$document
 imgur.com/nhcCs90/$document,domain=web.archive.org
+jewsnip.com/$document,domain=web.archive.org
+web.archive.org/web/*/jewsnip.com^$document
+web.archive.org/web/*/jewsnip^$document
+porkspin.com/$document,domain=web.archive.org
+web.archive.org/web/*/porkspin.com^$document
+web.archive.org/web/*/porkspin^$document
 !End Wayback Machine Shock Sites
 !Internet Archive Porn
 archive.org/details/hentaiarchive^$document
@@ -287,6 +293,8 @@ meatspin.com
 meatspin.cc
 meatspin.biz
 meatspin.fr
+jewsnip.com
+porkspin.com
 chaosvod.wo.to
 leekspin.com
 lemonparty.org
@@ -420,6 +428,16 @@ google.com###search .g:has-text(MEATSPIN)
 google.com###search .g:has-text(meat spin)
 google.com###search .g:has-text(Meat spin)
 google.com###search .g:has-text(Meat Spin)
+google.*##a[href*="jewsnip.com"]:nth-ancestor(2)
+google.com###search .g:has-text(jewsnip)
+google.com###search .g:has-text(Jewsnip)
+google.com###search .g:has-text(JewSnip)
+google.com###search .g:has-text(jewsnip.com)
+google.*##a[href*="porkspin.com"]:nth-ancestor(2)
+google.com###search .g:has-text(porkspin)
+google.com###search .g:has-text(Porkspin)
+google.com###search .g:has-text(PorkSpin)
+google.com###search .g:has-text(porkspin.com)
 google.com###search .g:has-text(screamer cactus)
 google.com###search .g:has-text(Screamer Cactus)
 google.com###search .g:has-text(Screamer cactus)
