@@ -143,6 +143,9 @@ web.archive.org/web/*/meatspin.fr^$document
 happypuppies.net/$document,domain=web.archive.org
 web.archive.org/web/*/happypuppies.net^$document
 web.archive.org/web/*/happypuppies^$document
+epicroadtrips.us/$document,domain=web.archive.org
+web.archive.org/web/*/epicroadtrips.us^$document
+web.archive.org/web/*/epicroadtrips^$document
 !Wayback Machine 2girls1cup
 2girls1cup.com/$document,domain=web.archive.org
 web.archive.org/web/*/2girls1cup.com^$document
