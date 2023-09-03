@@ -125,6 +125,8 @@ web.archive.org/web/*/offended.feenode.net^$document
 web.archive.org/web/*/offended^$document
 youareanidiot.org/$document,domain=web.archive.org
 web.archive.org/web/*/youareanidiot.org^$document
+youareanidiot.cc/$document,domain=web.archive.org
+web.archive.org/web/*/youareanidiot.cc^$document
 web.archive.org/web/*/youareanidiot^$document
 web.archive.org/web/*/idiot^$document
 !Goggle is blacklisted but just block it anyway
@@ -503,6 +505,7 @@ google.*##a[href*="nimp.org"]:nth-ancestor(2)
 !Block You Are An Idiot Domains from Google Search
 google.*##a[href*="pivpiv.dk"]:nth-ancestor(2)
 google.*##a[href*="youareanidiot.org"]:nth-ancestor(2)
+google.*##a[href*="youareanidiot.cc"]:nth-ancestor(2)
 google.*##a[href*="theuselessweb.site"]:nth-ancestor(2)
 
 !Block Typosquats from Google Search
