@@ -362,8 +362,8 @@ kemono.party
 theannoyingsite.com
 winterrowd.com
 funny-pranks.net
-reddit.com/r/WTF*/^$document
-reddit.com/r/SpammedDomains*/^$document
+.com/r/WTF*/^$document
+.com/r/SpammedDomains*/^$document
 reddit.com/r/tipofmypenis*/^$document
 reddit.com/r/internetcollection*/^$document
 reddit.com/r/sourmath*/^$document
@@ -372,6 +372,7 @@ reddit.com/r/ScreamerWiki*/^$document
 reddit.com/r/Animegao*/^$document
 reddit.com/r/Kigurumi*/^$document
 reddit.com/r/KigurumiFans*/^$document
+reddit.com/r/FemaleMasked*/^$document
 reddit.com/domain/howtotroll.org/^$document
 reddit.com/r/funny/comments/nffyq/how_to_troll_the_internet_the_video_series/^$document
 reddit.com/r/reddit.com/comments/hc7cp/be_an_internet_trolling_master/^$document
