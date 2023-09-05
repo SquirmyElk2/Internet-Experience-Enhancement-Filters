@@ -373,6 +373,8 @@ reddit.com/r/Animegao*/^$document
 reddit.com/r/Kigurumi*/^$document
 reddit.com/r/KigurumiFans*/^$document
 reddit.com/r/FemaleMasked*/^$document
+reddit.com/r/RubberSissies*/^$document
+reddit.com/r/latexcosplay*/^$document
 reddit.com/domain/howtotroll.org/^$document
 reddit.com/r/funny/comments/nffyq/how_to_troll_the_internet_the_video_series/^$document
 reddit.com/r/reddit.com/comments/hc7cp/be_an_internet_trolling_master/^$document
