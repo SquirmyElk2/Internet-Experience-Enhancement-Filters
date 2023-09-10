@@ -312,6 +312,11 @@ ooskar.com
 diddlers.info
 goatsedance.com
 impse.cx
+!NSFW Doom Wads
+doomworld.com/idgames/levels/doom2/Ports/g-i/impencse^$document
+!DoomWorld Forum Adventures contains a Goatsecx in the files of the WAD (Can be found via SLADE)
+doomworld.com/files/file/11873-doomworld-forum-adventures/^$document
+doomworld.com/idgames/levels/doom2/Ports/d-f/dwforums^$document
 klerckisdead.com
 ketma.net
 kekma.net
