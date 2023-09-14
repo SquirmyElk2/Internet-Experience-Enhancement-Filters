@@ -573,6 +573,13 @@ google.*##a[href*="fap18.net"]:nth-ancestor(2)
 google.*##a[href*="filmco.com"]:nth-ancestor(2)
 google.*##a[href*="kink.com"]:nth-ancestor(2)
 google.*##a[href*="zrstudios.moe"]:nth-ancestor(2)
+google.com###search .g:has-text(allthefallen)
+google.com###search .g:has-text(Allthefallen)
+google.com###search .g:has-text(AllTheFallen)
+google.*##a[href*="allthefallen.moe"]:nth-ancestor(2)
+google.*##a[href*="allthefallen.ninja"]:nth-ancestor(2)
+google.*##a[href*="allthefallen.org"]:nth-ancestor(2)
+google.*##a[href*="pomf.tv"]:nth-ancestor(2)
 
 !Straight up block the words "Shock Site" from Google
 google.com###search .g:has-text(shock site)
