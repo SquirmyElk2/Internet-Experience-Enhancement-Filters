@@ -345,8 +345,8 @@ danbooru.donmai.us
 allthefallen.moe
 allthefallen.ninja
 allthefallen.org
-loudbooru.com
 pomf.tv
+loudbooru.com
 rule34.paheal.net
 rule34.xxx
 reddit.tube
@@ -580,6 +580,7 @@ google.*##a[href*="allthefallen.moe"]:nth-ancestor(2)
 google.*##a[href*="allthefallen.ninja"]:nth-ancestor(2)
 google.*##a[href*="allthefallen.org"]:nth-ancestor(2)
 google.*##a[href*="pomf.tv"]:nth-ancestor(2)
+google.*##a[href*="loudbooru.com"]:nth-ancestor(2)
 
 !Straight up block the words "Shock Site" from Google
 google.com###search .g:has-text(shock site)
