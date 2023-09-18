@@ -375,6 +375,7 @@ fap18.net
 filmco.com
 kink.com
 zrstudios.moe
+toplosers.com
 kemono.party
 theannoyingsite.com
 winterrowd.com
@@ -580,6 +581,7 @@ google.*##a[href*="fap18.net"]:nth-ancestor(2)
 google.*##a[href*="filmco.com"]:nth-ancestor(2)
 google.*##a[href*="kink.com"]:nth-ancestor(2)
 google.*##a[href*="zrstudios.moe"]:nth-ancestor(2)
+google.*##a[href*="toplosers.com"]:nth-ancestor(2)
 google.com###search .g:has-text(allthefallen)
 google.com###search .g:has-text(Allthefallen)
 google.com###search .g:has-text(AllTheFallen)
