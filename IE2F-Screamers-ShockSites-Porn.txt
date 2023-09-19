@@ -605,6 +605,9 @@ un1x.fr
 0xad.net
 bexandre.alwaysdata.net
 
+!Spam Sites (Porn)
+doppelsbangers.com
+
 !Porn site that disguises itself as 4chan.org and 4channel.org
 4chan.com
 4channel.com
