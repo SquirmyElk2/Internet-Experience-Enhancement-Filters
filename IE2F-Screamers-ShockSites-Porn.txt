@@ -376,6 +376,7 @@ filmco.com
 kink.com
 zrstudios.moe
 toplosers.com
+loverslab.com
 kemono.party
 theannoyingsite.com
 winterrowd.com
@@ -582,6 +583,7 @@ google.*##a[href*="filmco.com"]:nth-ancestor(2)
 google.*##a[href*="kink.com"]:nth-ancestor(2)
 google.*##a[href*="zrstudios.moe"]:nth-ancestor(2)
 google.*##a[href*="toplosers.com"]:nth-ancestor(2)
+google.*##a[href*="loverslab.com"]:nth-ancestor(2)
 google.com###search .g:has-text(allthefallen)
 google.com###search .g:has-text(Allthefallen)
 google.com###search .g:has-text(AllTheFallen)
