@@ -145,6 +145,14 @@ web.archive.org/web/*/meatspin.fr^$document
 happypuppies.net/$document,domain=web.archive.org
 web.archive.org/web/*/happypuppies.net^$document
 web.archive.org/web/*/happypuppies^$document
+ogrish.com/$document,domain=web.archive.org
+web.archive.org/web/*/ogrish.com^$document
+web.archive.org/web/*/ogrish^$document
+bestgore.com/$document,domain=web.archive.org
+web.archive.org/web/*/bestgore.com^$document
+web.archive.org/web/*/bestgore^$document
+rotten.com/$document,domain=web.archive.org
+web.archive.org/web/*/rotten.com^$document
 epicroadtrips.us/$document,domain=web.archive.org
 web.archive.org/web/*/epicroadtrips.us^$document
 web.archive.org/web/*/epicroadtrips^$document
@@ -285,6 +293,7 @@ https://knowyourmeme.com/memes/scary-maze-game^$document
 https://knowyourmeme.com/memes/scary-prank-reaction-videos^$document
 scaryandfun.com
 lomando.com
+!Typosquat Screamers
 agor.io
 akk.li
 strawpoli.me
@@ -321,6 +330,9 @@ klerckisdead.com
 ketma.net
 kekma.net
 kekma.ga
+ogrish.com
+bestgore.com
+rotten.com
 epicroadtrips.us
 1d4chan.org
 jewsnip.com
@@ -478,6 +490,12 @@ google.com###search .g:has-text(Cactus screamer)
 google.com###search .g:has-text(lemonparty)
 google.*##a[href*="lemonparty.org"]:nth-ancestor(2)
 google.*##a[href*="lemonparty.biz"]:nth-ancestor(2)
+google.*##a[href*="ogrish.com"]:nth-ancestor(2)
+google.com###search .g:has-text(ogrish.com)
+google.*##a[href*="bestgore.com"]:nth-ancestor(2)
+google.com###search .g:has-text(bestgore)
+google.*##a[href*="rotten.com"]:nth-ancestor(2)
+google.com###search .g:has-text(rotten.com)
 google.com###search .g:has-text(goatse)
 google.com###search .g:has-text(Goatse)
 google.com###search .g:has-text(hello.jpg)
