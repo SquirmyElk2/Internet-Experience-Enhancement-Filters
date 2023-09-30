@@ -389,6 +389,7 @@ fap18.net
 filmco.com
 kink.com
 zrstudios.moe
+yande.re
 toplosers.com
 doppelbangers.net
 doppelbangers.co.uk
@@ -604,6 +605,7 @@ google.*##a[href*="fap18.net"]:nth-ancestor(2)
 google.*##a[href*="filmco.com"]:nth-ancestor(2)
 google.*##a[href*="kink.com"]:nth-ancestor(2)
 google.*##a[href*="zrstudios.moe"]:nth-ancestor(2)
+google.*##a[href*="yande.re"]:nth-ancestor(2)
 google.*##a[href*="toplosers.com"]:nth-ancestor(2)
 google.*##a[href*="loverslab.com"]:nth-ancestor(2)
 google.com###search .g:has-text(allthefallen)
