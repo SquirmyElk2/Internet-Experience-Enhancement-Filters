@@ -403,7 +403,7 @@ funny-pranks.net
 reddit.com/r/tipofmypenis*/^$document
 reddit.com/r/internetcollection*/^$document
 reddit.com/r/sourmath*/^$document
-reddit.com/r/ftm*/^$document
+reddit.com/r/mtf*/^$document
 reddit.com/r/ScreamerWiki*/^$document
 reddit.com/r/Animegao*/^$document
 reddit.com/r/Kigurumi*/^$document
