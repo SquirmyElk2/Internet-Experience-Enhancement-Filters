@@ -3,6 +3,7 @@ nimp.org
 loldongs.eu
 feenode.net
 knowyourmeme.com/memes/sites/encyclopedia-dramatica^$document
+knowyourmeme.com/memes/sites/kiwi-farms^$document
 knowyourmeme.com/types/shock-media^$document
 knowyourmeme.com/memes/fortniteburgernet^$document
 knowyourmeme.com/memes/spritecranberrynet^$document
