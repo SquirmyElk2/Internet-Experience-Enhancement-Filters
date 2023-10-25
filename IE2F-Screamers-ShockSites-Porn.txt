@@ -266,6 +266,12 @@ https://archive.org/search?query=*animegao*^$document
 https://archive.org/details/tv?q=*animegao*^$document
 https://archive.org/search.php?query=*animegao*^$document
 !End Internet Archive Porn
+!Internet Archive Screamers
+archive.org/search?query=*Screamer*^$document
+archive.org/search?query=*Jumpscare*^$document
+archive.org/search?query=*Liquid+Generation*^$document
+archive.org/search?query=*Jeremy+Winterrowd*^$document
+!End Internet Archive Screamers
 jvflux.com
 jeuxvideo.com
 szworld.net
