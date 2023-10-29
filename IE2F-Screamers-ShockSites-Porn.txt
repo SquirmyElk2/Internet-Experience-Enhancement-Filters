@@ -692,10 +692,7 @@ ghostsingles.com
 tvtropes.org/pmwiki/pmwiki.php/ScreamerPrank/WebOriginal^$document
 tvtropes.org/pmwiki/pmwiki.php/Main/ScreamerPrank^$document
 tvtropes.org/pmwiki/pmwiki.php/SchmuckBait/WebOriginal^$document
-tvtropes.org/pmwiki/pmwiki.php/Quotes/ShockSite^$document
-tvtropes.org/pmwiki/pmwiki.php/Laconic/ShockSite^$document
-tvtropes.org/pmwiki/pmwiki.php/Main/ShockSite^$document
-tvtropes.org/pmwiki/pmwiki.php/PlayingWith/ShockSite^$document
+tvtropes.org/pmwiki/pmwiki.php/*/ShockSite^$document
 tvtropes.org/pmwiki/pmwiki.php/TropeCo/GagPenis^$document
 tvtropes.org/pmwiki/pmwiki.php/*/HGame^$document
 tvtropes.org/pmwiki/pmwiki.php/*/Hentai^$document
