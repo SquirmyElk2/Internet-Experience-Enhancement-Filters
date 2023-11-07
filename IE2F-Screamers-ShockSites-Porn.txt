@@ -15,6 +15,9 @@ knowyourmeme.com/memes/online-pornography^$document
 knowyourmeme.com/memes/lemon-party^$document
 knowyourmeme.com/memes/sites/happypuppiesnet^$document
 knowyourmeme.com/memes/shock-sites^$document
+knowyourmeme.com/memes/why-are-you-scared-isnt-this-what-you-wanted*^$document
+knowyourmeme.com/memes/the-uncanny-valley*^$document
+knowyourmeme.com/memes/sites/body-visualizer*^$document
 !Wikipedia, Do not look any of these up.
 wikipedia.org/wiki/2_Girls_1_Cup^$document
 !The porn film the former is based off of, do not look it up
