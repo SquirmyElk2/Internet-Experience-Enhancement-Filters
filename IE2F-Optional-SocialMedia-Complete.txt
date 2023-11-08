@@ -1,0 +1,64 @@
+!Complete Social Media Blackout
+
+!Block Twitter
+twitter.com
+!Block Twitter Search Bar
+twitter.com##.r-136ojw6.r-1hycxz.r-ipm5af.r-1xcajam.r-15ysp7h.r-6gpygo.r-1h3ijdo.r-18u37iz.r-kemksi.r-aqfbo4.r-1awozwy.css-1dbjc4n
+twitter.com##.r-itp27i.r-4amgru.r-1wbh5a2.r-16y2uox.r-18u37iz.r-1awozwy.css-1dbjc4n
+
+!Block Facebook
+facebook.com
+
+!Block TikTok
+tiktok.com
+google.*##a[href*="tiktok.com"]:nth-ancestor(2)
+
+!Block Deviantart
+deviantart.com
+
+!Block Instagram
+instagram.com
+
+!Block Snapchat
+snapchat.com
+
+!Block Reddit
+reddit.com
+
+!Block Discord
+discord.com
+
+!Block YouTube
+youtube.com
+
+!Block WhatsApp
+whatsapp.com
+
+!Block Pinterest
+pinterest.com
+google.*##a[href*="pinterest.com"]:nth-ancestor(2)
+
+!Block 4chan
+4chan.org
+4channel.org
+
+!Block MySpace
+myspace.com
+
+!Block GameFAQs
+gamefaqs.gamespot.com
+
+!Block Flickr
+flickr.com
+
+!Block Wattpad
+wattpad.com
+
+!Block Tumblr
+tumblr.com
+
+!Block TV Tropes
+tvtropes.org
+
+!Block Threads
+threads.net
