@@ -21,3 +21,6 @@ instagram.com
 
 !Block Snapchat
 snapchat.com
+
+!Block Omegle
+omegle.com
