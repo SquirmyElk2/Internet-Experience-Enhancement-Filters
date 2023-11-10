@@ -37,6 +37,9 @@ youtube.com
 !Block WhatsApp
 whatsapp.com
 
+!Block Patreon
+patreon.com
+
 !Block Pinterest
 pinterest.com
 google.*##a[href*="pinterest.com"]:nth-ancestor(2)
