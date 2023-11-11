@@ -19,6 +19,7 @@ knowyourmeme.com/memes/*porn*^$document
 knowyourmeme.com/memes/why-are-you-scared-isnt-this-what-you-wanted*^$document
 knowyourmeme.com/memes/the-uncanny-valley*^$document
 knowyourmeme.com/memes/sites/body-visualizer*^$document
+knowyourmeme.com/memes/uncanny-valley-makeup-tiktok-trend*^$document
 knowyourmeme.com/photos/*-why-are-you-scared-isnt-this-what-you-wanted^$document
 !Wikipedia, Do not look any of these up.
 wikipedia.org/wiki/2_Girls_1_Cup^$document
@@ -289,6 +290,8 @@ en.wikipedia.org##img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 !Know Your Meme Image Blocking
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg^$document
+i.kym-cdn.com/photos/images/*/002/257/556/b7f.png^$document
+i.kym-cdn.com/photos/images/*/002/257/556/b7f.png^$document
 i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg
 i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg^$document
 i.kym-cdn.com/photos/images/*/002/085/405/9a4.jpg
