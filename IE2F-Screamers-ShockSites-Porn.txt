@@ -283,6 +283,29 @@ archive.org/search?query=*Jumpscare*^$document
 archive.org/search?query=*Liquid+Generation*^$document
 archive.org/search?query=*Jeremy+Winterrowd*^$document
 !End Internet Archive Screamers
+!Know Your Meme Image Blocking
+i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg
+i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/405/9a4.jpg
+i.kym-cdn.com/photos/images/*/002/085/405/9a4.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/398/c9b.jpg
+i.kym-cdn.com/photos/images/*/002/085/398/c9b.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/404/aab.jpg
+i.kym-cdn.com/photos/images/*/002/085/404/aab.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/408/536.jpg
+i.kym-cdn.com/photos/images/*/002/085/408/536.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/400/7a3.jpg
+i.kym-cdn.com/photos/images/*/002/085/400/7a3.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/414/05e.jpg
+i.kym-cdn.com/photos/images/*/002/085/414/05e.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/399/ce7.jpg
+i.kym-cdn.com/photos/images/*/002/085/399/ce7.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/412/957.jpg
+i.kym-cdn.com/photos/images/*/002/085/412/957.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/410/8a5.jpg
+i.kym-cdn.com/photos/images/*/002/085/410/8a5.jpg^$document
+i.kym-cdn.com/photos/images/*/002/085/403/866.jpg
+i.kym-cdn.com/photos/images/*/002/085/403/866.jpg^$document
 jvflux.com
 jeuxvideo.com
 szworld.net
