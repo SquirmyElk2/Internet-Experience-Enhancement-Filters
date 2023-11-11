@@ -287,6 +287,8 @@ en.wikipedia.org##img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 ||static.tvtropes.org/pmwiki/pub/images/rsz_regan.png$image
 ||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9qkAH41wvshAPoO71bitZUHsNfx7F8bcfdFerifRwrqkG-VXeIw8-6ei2$image
 !Know Your Meme Image Blocking
+i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg
+i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg^$document
 i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg
 i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg^$document
 i.kym-cdn.com/photos/images/*/002/085/405/9a4.jpg
