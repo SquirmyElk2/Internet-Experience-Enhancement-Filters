@@ -20,8 +20,6 @@ knowyourmeme.com/memes/why-are-you-scared-isnt-this-what-you-wanted*^$document
 knowyourmeme.com/memes/the-uncanny-valley*^$document
 knowyourmeme.com/memes/sites/body-visualizer*^$document
 knowyourmeme.com/photos/*-why-are-you-scared-isnt-this-what-you-wanted^$document
-knowyourmeme.com/search?context=images&q=tags%3A%28"why+are+you+scared"%29^$document
-knowyourmeme.com/search?context=images&q=tags%3A%28"isn%27t+this+what+you+wanted"%29^$document
 !Wikipedia, Do not look any of these up.
 wikipedia.org/wiki/2_Girls_1_Cup^$document
 !The porn film the former is based off of, do not look it up
