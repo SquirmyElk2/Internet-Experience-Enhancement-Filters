@@ -281,6 +281,11 @@ archive.org/search?query=*Jumpscare*^$document
 archive.org/search?query=*Liquid+Generation*^$document
 archive.org/search?query=*Jeremy+Winterrowd*^$document
 !End Internet Archive Screamers
+en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plasticboobs.JPG/220px-Plasticboobs.JPG"]
+en.wikipedia.org##img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plasticboobs.JPG/1280px-Plasticboobs.JPG"]
+!TV Tropes Regan MacNeil
+||static.tvtropes.org/pmwiki/pub/images/rsz_regan.png$image
+||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9qkAH41wvshAPoO71bitZUHsNfx7F8bcfdFerifRwrqkG-VXeIw8-6ei2$image
 !Know Your Meme Image Blocking
 i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg
 i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg^$document
