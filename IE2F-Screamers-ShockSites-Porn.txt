@@ -32,6 +32,7 @@ wikipedia.org/wiki/Rule_34^$document
 wikipedia.org/wiki/Clop_(erotic_fan_art)^$document
 wikipedia.org/wiki/Yiff^$document
 wikipedia.org/wiki/Furry_fandom^$document
+wikipedia.org/wiki/Feminization_(activity)^$document
 wikipedia.org/wiki/*fetish^$document
 wikipedia.org/wiki/*fetishism^$document
 wikipedia.org/wiki/Meatspin^$document
