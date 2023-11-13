@@ -77,6 +77,7 @@ wikipedia.org/wiki/*jailbait^$document
 wikipedia.org/wiki/*Pornography*^$document
 wikipedia.org/wiki/*Pornographic*^$document
 wikipedia.org/wiki/Hentai^$document
+wikipedia.org/wiki/Eroge^$document
 wikipedia.org/wiki/Alt_porn^$document
 wikipedia.org/wiki/Panchira^$document
 wikipedia.org/wiki/Gender-affirming_surgery^$document
