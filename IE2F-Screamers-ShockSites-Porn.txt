@@ -287,6 +287,9 @@ archive.org/search?query=*Jeremy+Winterrowd*^$document
 !End Internet Archive Screamers
 en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plasticboobs.JPG/220px-Plasticboobs.JPG"]
 en.wikipedia.org##img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plasticboobs.JPG/1280px-Plasticboobs.JPG"]
+||upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Animegao_at_Kyoto_International_Manga_Summit.jpg/*px-Animegao_at_Kyoto_International_Manga_Summit.jpg$image,media,important
+||upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Animegao_at_Kyoto_International_Manga_Summit.jpg/800px-Animegao_at_Kyoto_International_Manga_Summit.jpg$image,media,important
+upload.wikimedia.org/wikipedia/commons/b/b9/Animegao_at_Kyoto_International_Manga_Summit.jpg^$document
 !TV Tropes Regan MacNeil
 ||static.tvtropes.org/pmwiki/pub/images/rsz_regan.png$image
 ||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9qkAH41wvshAPoO71bitZUHsNfx7F8bcfdFerifRwrqkG-VXeIw8-6ei2$image
