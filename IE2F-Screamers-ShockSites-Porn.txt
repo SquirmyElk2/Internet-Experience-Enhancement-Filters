@@ -689,6 +689,27 @@ google.*##a[href*="allthefallen.org"]:nth-ancestor(2)
 google.*##a[href*="pomf.tv"]:nth-ancestor(2)
 google.*##a[href*="loudbooru.com"]:nth-ancestor(2)
 
+!Block entire Google Searches
+google.com/search?q=*shock+site*^$document,important
+google.com/search?q=*lemon+party*^$document,important
+google.com/search?q=*lemonparty*$^$document,important
+google.com/search?q=*meat+spin*^$document,important
+google.com/search?q=*meatspin*^$document,important
+google.com/search?q=*goatse*^$document,important
+google.com/search?q=*goatse*^$document,important
+google.com/search?q=*sour+math*^$document,important
+google.com/search?q=*sourmath*^$document,important
+google.com/search?q=*encyclopedia+dramatica*^$document,important
+google.com/search?q=*pnrtscr*^$document,important
+google.com/search?q=*shafou*^$document,important
+google.com/search?q=*porn*$^$document,important
+google.com/search?q=*hentai*^$document,important
+google.com/search?q=*eroge*^$document,important
+google.com/search?q=*rule+34*^$document,important
+google.com/search?q=*rule34*^$document,important
+google.com/search?q=*animegao*^$document,important
+google.com/search?q=*kigurumi*^$document,important
+
 !Straight up block the words "Shock Site" from Google
 google.com###search .g:has-text(shock site)
 google.com###search .g:has-text(Shock Site)
