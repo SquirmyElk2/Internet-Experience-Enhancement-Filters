@@ -35,6 +35,7 @@ wikipedia.org/wiki/Furry_fandom^$document
 wikipedia.org/wiki/Feminization_(activity)^$document
 wikipedia.org/wiki/*fetish^$document
 wikipedia.org/wiki/*fetishism^$document
+wikipedia.org/wiki/Category:*fetish*^$document
 wikipedia.org/wiki/Meatspin^$document
 wikipedia.org/wiki/Coprophilia^$document
 wikipedia.org/wiki/Shock_site^$document
