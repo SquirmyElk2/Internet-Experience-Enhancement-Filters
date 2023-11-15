@@ -321,6 +321,12 @@ i.kym-cdn.com/photos/images/*/002/085/410/8a5.jpg
 i.kym-cdn.com/photos/images/*/002/085/410/8a5.jpg^$document
 i.kym-cdn.com/photos/images/*/002/085/403/866.jpg
 i.kym-cdn.com/photos/images/*/002/085/403/866.jpg^$document
+i.kym-cdn.com/photos/images/*/002/252/046/295.png
+i.kym-cdn.com/photos/images/*/002/252/046/295.png^$document
+i.kym-cdn.com/photos/images/*/001/876/485/710.jpg
+i.kym-cdn.com/photos/images/*/001/876/485/710.jpg^$document
+i.kym-cdn.com/photos/images/*/001/867/993/cbe.jpg
+i.kym-cdn.com/photos/images/*/001/867/993/cbe.jpg^$document
 jvflux.com
 jeuxvideo.com
 szworld.net
