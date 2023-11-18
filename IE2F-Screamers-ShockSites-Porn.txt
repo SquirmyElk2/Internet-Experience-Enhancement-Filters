@@ -707,6 +707,7 @@ google.com/search?q=*goatse*^$document,important
 google.com/search?q=*sour+math*^$document,important
 google.com/search?q=*sourmath*^$document,important
 google.com/search?q=*encyclopedia+dramatica*^$document,important
+google.com/search?q=*futanari*^$document,important
 google.com/search?q=*pnrtscr*^$document,important
 google.com/search?q=*shafou*^$document,important
 google.com/search?q=*porn*$^$document,important
