@@ -465,12 +465,13 @@ best.ivx.gallery
 theothertentacle.com
 fetlife.com
 doujintoshokan.com
+sankakucomplex.com
 kemono.party
 theannoyingsite.com
 winterrowd.com
 funny-pranks.net
-.com/r/WTF*/^$document
-.com/r/SpammedDomains*/^$document
+reddit.com/r/WTF*/^$document
+reddit.com/r/SpammedDomains*/^$document
 reddit.com/r/tipofmypenis*/^$document
 reddit.com/r/internetcollection*/^$document
 reddit.com/r/sourmath*/^$document
