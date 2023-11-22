@@ -737,6 +737,7 @@ bexandre.alwaysdata.net
 
 !Block certain CLG Wiki Pages
 avid.miraheze.org/w/index.php?title=Forum:An_idea_regarding_the_NSFW_template&t=20220721021254^$document
+avid.wiki/Forum:An_idea_regarding_the_NSFW_template^$document
 
 !Spam Sites (Porn)
 doppelsbangers.com
