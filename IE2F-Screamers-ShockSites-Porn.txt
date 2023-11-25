@@ -771,8 +771,11 @@ mashable.com/2013/10/27/screamer-videos^$document
 hltv.org/forums/threads/970438/best-hidden-screamer-link^$document
 medium.com/@rajesh.jhamb/prank-websites-on-the-internet-top-10-prank-links-1d6456c4e7a1^$document
 freakylogo.fandom.com
+google.*##a[href*="freakylogo.fandom.com"]:nth-ancestor(2)
 screamer.fandom.com
+google.*##a[href*="screamer.fandom.com"]:nth-ancestor(2)
 screamer-wiki.fandom.com
+google.*##a[href*="screamer-wiki.fandom.com"]:nth-ancestor(2)
 reddit.com/r/screamer*/^$document
 
 !Just takes you to a random screamer site from a pool list of sites.
