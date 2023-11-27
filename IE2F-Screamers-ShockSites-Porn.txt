@@ -269,6 +269,7 @@ web.archive.org/web/*/porkspin^$document
 !End Wayback Machine Shock Sites
 !Internet Archive Porn
 archive.org/details/hentaiarchive^$document
+archive.org/details/kigvideos^$document
 archive.org/details/adultfilm^$document
 archive.org/details/adultimages^$document
 https://archive.org/search?query=*porn*^$document
