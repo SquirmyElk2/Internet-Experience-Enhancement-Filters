@@ -280,6 +280,9 @@ archive.org/services/img/adultfilm^$document
 archive.org/details/adultimages^$document
 ||archive.org/services/img/adultimages$image,important
 archive.org/services/img/adultimages^$document
+archive.org/details/altcensored^$document
+||archive.org/services/img/altcensored$image,important
+archive.org/services/img/altcensored^$document
 https://archive.org/search?query=*porn*^$document
 https://archive.org/details/tv?q=*porn*^$document
 https://archive.org/search.php?query=*porn*^$document
