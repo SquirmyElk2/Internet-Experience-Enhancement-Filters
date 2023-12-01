@@ -76,6 +76,7 @@ wikipedia.org/wiki/Category:Shock_sites^$document
 wikipedia.org/wiki/Enumclaw_horse_sex_case^$document
 wikipedia.org/wiki/CP^$document
 wikipedia.org/wiki/*jailbait^$document
+wikipedia.org/wiki/*sexual_abuse*^$document
 wikipedia.org/wiki/*Pornography*^$document
 wikipedia.org/wiki/*Pornographic*^$document
 wikipedia.org/wiki/Hentai^$document
