@@ -309,6 +309,9 @@ upload.wikimedia.org/wikipedia/commons/b/b9/Animegao_at_Kyoto_International_Mang
 !TV Tropes Regan MacNeil
 ||static.tvtropes.org/pmwiki/pub/images/rsz_regan.png$image
 ||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9qkAH41wvshAPoO71bitZUHsNfx7F8bcfdFerifRwrqkG-VXeIw8-6ei2$image
+!Rogue TV Tropes Images
+||static.tvtropes.org/pmwiki/pub/images/labluegirlkid_8290.jpg$image
+||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUECG1WZ78jk71ACHUqpE9SuBfVLhOOs1nUAp_H6G3QW5U8AiQMwTsPS_8$image
 !Know Your Meme Image Blocking
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg^$document
