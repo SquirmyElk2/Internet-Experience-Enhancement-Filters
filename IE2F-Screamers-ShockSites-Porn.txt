@@ -306,6 +306,12 @@ en.wikipedia.org##img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 ||upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Animegao_at_Kyoto_International_Manga_Summit.jpg/800px-Animegao_at_Kyoto_International_Manga_Summit.jpg$image,media,important
 upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Animegao_at_Kyoto_International_Manga_Summit.jpg/*px-Animegao_at_Kyoto_International_Manga_Summit.jpg^$document
 upload.wikimedia.org/wikipedia/commons/b/b9/Animegao_at_Kyoto_International_Manga_Summit.jpg^$document
+||upload.wikimedia.org/wikipedia/commons/thumb/0/01/Casts_%26_Crew_from_%22Go%21_Princess_Pretty_Cure_the_Movie%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822241687550%29.jpg/*0px-Casts_%26_Crew_from_%22Go%21_Princess_Pretty_Cure_the_Movie%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822241687550%29.jpg$image,important
+upload.wikimedia.org/wikipedia/commons/thumb/0/01/Casts_%26_Crew_from_%22Go%21_Princess_Pretty_Cure_the_Movie%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822241687550%29.jpg/*px-Casts_%26_Crew_from_%22Go%21_Princess_Pretty_Cure_the_Movie%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822241687550%29.jpg^$document
+https://upload.wikimedia.org/wikipedia/commons/0/01/Casts_%26_Crew_from_%22Go%21_Princess_Pretty_Cure_the_Movie%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822241687550%29.jpg^$document
+||upload.wikimedia.org/wikipedia/commons/*f/f2/*Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg$image,important
+upload.wikimedia.org/wikipedia/commons/f/f2/Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg^$document
+upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg/220px-Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg^$document
 !TV Tropes Regan MacNeil
 ||static.tvtropes.org/pmwiki/pub/images/rsz_regan.png$image
 ||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9qkAH41wvshAPoO71bitZUHsNfx7F8bcfdFerifRwrqkG-VXeIw8-6ei2$image
