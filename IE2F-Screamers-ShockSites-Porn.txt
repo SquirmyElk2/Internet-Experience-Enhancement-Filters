@@ -297,6 +297,10 @@ https://archive.org/search.php?query=*sexy*^$document
 https://archive.org/details/*?q=*sexy*^$document
 https://archive.org/search.php?query=*girls*^$document
 https://archive.org/details/*?q=*girls*^$document
+https://archive.org/search.php?query=*%e3%82%a2%e3%83%8b%e3%83%a1%e9%a1%94*^$document
+https://archive.org/details/*?q=**%e3%82%a2%e3%83%8b%e3%83%a1%e9%a1%94**^$document
+https://archive.org/search.php?query=*%e7%9d%80%e3%81%90%e3%82%8b%e3%81%bf*^$document
+https://archive.org/details/*?q=*%e7%9d%80%e3%81%90%e3%82%8b%e3%81%bf*^$document
 !End Internet Archive Porn
 !Internet Archive Screamers
 archive.org/search?query=*Screamer*^$document
@@ -746,6 +750,8 @@ google.com/search?q=*rule+34*^$document,important
 google.com/search?q=*rule34*^$document,important
 google.com/search?q=*animegao*^$document,important
 google.com/search?q=*kigurumi*^$document,important
+google.com/search?q=*%e3%82%a2%e3%83%8b%e3%83%a1%e9%a1%94*$document,important
+google.com/search?q=*%e7%9d%80%e3%81%90%e3%82%8b%e3%81%bf*$document,important
 
 !Straight up block the words "Shock Site" from Google
 google.com###search .g:has-text(shock site)
