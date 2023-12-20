@@ -77,11 +77,14 @@ wikipedia.org/wiki/Enumclaw_horse_sex_case^$document
 wikipedia.org/wiki/CP^$document
 wikipedia.org/wiki/*jailbait^$document
 wikipedia.org/wiki/*sexual_abuse*^$document
+wikipedia.org/wiki/*Sex-industry*^$document
 wikipedia.org/wiki/*Pornography*^$document
 wikipedia.org/wiki/*Pornographic*^$document
 wikipedia.org/wiki/Hentai^$document
 wikipedia.org/wiki/Eroge^$document
 wikipedia.org/wiki/Alt_porn^$document
+wikipedia.org/wiki/*BDSM*^$document
+wikipedia.org/wiki/Dominance_and_submission^$document
 wikipedia.org/wiki/Panchira^$document
 wikipedia.org/wiki/Gender-affirming_surgery^$document
 wikipedia.org/wiki/Gender-affirming_surgery_(male-to-female)^$document
@@ -89,6 +92,7 @@ wikipedia.org/wiki/Gender-affirming_surgery_(female-to-male)^$document
 wikipedia.org/wiki/Phalloplasty^$document
 wikipedia.org/wiki/Metoidioplasty^$document
 wikipedia.org/wiki/Penile_implant^$document
+wikipedia.org/wiki/Gynecomastia^$document
 wikipedia.org/wiki/Transgender_health_care^$document
 wikipedia.org/wiki/Vaginoplasty^$document
 wikipedia.org/wiki/Labiaplasty^$document
