@@ -743,6 +743,7 @@ google.com/search?q=*meat*spin*^$document,important
 google.com/search?q=*goatse*^$document,important
 google.com/search?q=*goatse*^$document,important
 google.com/search?q=*sour*math*^$document,important
+google.com/search?q=*fortn*burger*^$document,important
 google.com/search?q=*encyclopedia+dramatica*^$document,important
 google.com/search?q=*futanari*^$document,important
 google.com/search?q=*pnrtscr*^$document,important
