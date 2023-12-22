@@ -503,6 +503,7 @@ theothertentacle.com
 fetlife.com
 doujintoshokan.com
 sankakucomplex.com
+onlyfans.com
 kemono.party
 theannoyingsite.com
 winterrowd.com
@@ -735,6 +736,9 @@ google.*##a[href*="allthefallen.ninja"]:nth-ancestor(2)
 google.*##a[href*="allthefallen.org"]:nth-ancestor(2)
 google.*##a[href*="pomf.tv"]:nth-ancestor(2)
 google.*##a[href*="loudbooru.com"]:nth-ancestor(2)
+google.*##a[href*="onlyfans.com"]:nth-ancestor(2)
+google.com###search .g:has-text(onlyfans)
+google.com###search .g:has-text(Onlyfans)
 
 !Block entire Google Searches
 google.com/search?q=*shock*site*^$document,important
@@ -753,6 +757,7 @@ google.com/search?q=*hentai*^$document,important
 google.com/search?q=*eroge*^$document,important
 google.com/search?q=*rule+34*^$document,important
 google.com/search?q=*rule34*^$document,important
+google.com/search?q=*only*fans*^$document,important
 google.com/search?q=*animegao*^$document,important
 google.com/search?q=*kigurumi*^$document,important
 google.com/search?q=*%e3%82%a2%e3%83%8b%e3%83%a1%e9%a1%94*$document,important
