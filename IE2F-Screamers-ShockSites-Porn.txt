@@ -99,9 +99,7 @@ wikipedia.org/wiki/Labiaplasty^$document
 wikipedia.org/wiki/Chondrolaryngoplasty^$document
 wikimedia.org/wiki/File:Gnaa-logo.png^$document
 !Wayback Machine Shock Sites
-archive.org/details/clownsong^$document
-archive.org/search.php?query=subject%3A%22clownsong%22^$document
-archive.org/search.php?query=clownsong^$document
+archive.org/*clownsong^$document
 web.archive.org/web/*/clownsong^$document
 clownsong.com/$document,domain=web.archive.org
 web.archive.org/web/*/clownsong.com^$document
