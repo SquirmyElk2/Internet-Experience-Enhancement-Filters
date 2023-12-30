@@ -15,9 +15,12 @@ knowyourmeme.com/memes/online-pornography^$document
 knowyourmeme.com/memes/lemon-party^$document
 knowyourmeme.com/memes/sites/happypuppiesnet^$document
 knowyourmeme.com/memes/shock-sites^$document
+knowyourmeme.com/*screamer*^$document
 knowyourmeme.com/memes/submissive-and-breedable*^$document
 knowyourmeme.com/memes/femboy*^$document
 knowyourmeme.com/memes/*porn*^$document
+knowyourmeme.com/memes/*brap*^$document
+knowyourmeme.com/memes/*loud-nigra*^$document
 knowyourmeme.com/memes/why-are-you-scared-isnt-this-what-you-wanted*^$document
 knowyourmeme.com/memes/the-uncanny-valley*^$document
 knowyourmeme.com/memes/sites/body-visualizer*^$document
