@@ -327,6 +327,10 @@ upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kanako_Miyamoto_at_Tokyo_Inter
 !Know Your Meme Image Blocking
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg^$document
+||i.kym-cdn.com/entries/icons/*/000/034/789/brap_2.*$image
+i.kym-cdn.com/entries/icons/*/000/034/789/brap_2.*^$document
+||i.kym-cdn.com/entries/icons/*/000/019/966/loud.*$image
+i.kym-cdn.com/entries/icons/*/000/019/966/loud.*^$document
 i.kym-cdn.com/photos/images/*/002/257/556/b7f.png
 i.kym-cdn.com/photos/images/*/002/257/556/b7f.png^$document
 i.kym-cdn.com/photos/images/*/002/085/411/c3c.jpg
