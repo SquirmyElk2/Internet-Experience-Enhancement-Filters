@@ -848,7 +848,7 @@ https://www.urbandictionary.com/define.php?term=Kekma*^$document
 https://www.urbandictionary.com/define.php?term=Fortnite%20Burger^$document
 definedictionarymeaning.com/topic/37986/lemon-party/7^$document
 
-!Eliminate option to view NSFW screenshots on VNDB
+!Eliminate option to view NSFW screenshots on Visual Novel Database.
 vndb.org###screenshots > .mainopts
 
 !Block Mr. Hands Shock Site from Google Search. Does not block image search. If you are looking for the song "Mr. Handsome" by Ritchie Everett, Remove this filter.
