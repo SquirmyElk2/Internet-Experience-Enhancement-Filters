@@ -829,6 +829,9 @@ tvtropes.org/pmwiki/pmwiki.php/TropeCo/GagPenis^$document
 tvtropes.org/pmwiki/pmwiki.php/*/HGame^$document
 tvtropes.org/pmwiki/pmwiki.php/*/Hentai^$document
 tvtropes.org/pmwiki/pmwiki.php/*/RuleThirtyFour^$document
+tvtropes.org/pmwiki/pmwiki.php/Administrivia/TheContentPolicy^$document
+tvtropes.org/pmwiki/pmwiki.php/Administrivia/PermanentRedLinkClub^$document
+tvtropes.org/pmwiki/pmwiki.php/Main/Yiff^$document
 tvtropes.org/pmwiki/search_result.php?q=animegao*^$document
 tvtropes.org/pmwiki/search_result.php?q=%22animegao%22^$document
 tvtropes.org/pmwiki/search_result.php?q=kigurumi*^$document
