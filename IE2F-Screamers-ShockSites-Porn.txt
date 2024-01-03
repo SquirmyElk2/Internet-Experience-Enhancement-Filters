@@ -836,7 +836,7 @@ tvtropes.org/pmwiki/search_result.php?q=animegao*^$document
 tvtropes.org/pmwiki/search_result.php?q=%22animegao%22^$document
 tvtropes.org/pmwiki/search_result.php?q=kigurumi*^$document
 tvtropes.org/pmwiki/search_result.php?q=%22kigurumi%22^$document
-allthetropes.fandom.com/wiki/Shock_Site/Quotes^$document
+tropedia.fandom.com/wiki/Shock_Site/Quotes^$document
 https://www.deviantart.com/fhashstark^$document
 https://www.urbandictionary.com/define.php?term=last+measure^$document
 https://www.urbandictionary.com/define.php?term=Offended^$document
