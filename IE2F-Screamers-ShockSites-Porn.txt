@@ -279,6 +279,7 @@ archive.org/details/kigvideos^$document
 archive.org/details/adultfilm^$document
 archive.org/details/adultimages^$document
 archive.org/details/altcensored^$document
+archive.org/details/softwarelibrary_mature^$document
 ||archive.org/services/img/hentaiarchive$image,important
 archive.org/services/img/hentaiarchive^$document
 ||archive.org/services/img/kigvideos$image,important
@@ -291,6 +292,7 @@ archive.org/services/img/adultimages^$document
 archive.org/services/img/altcensored^$document
 https://archive.org/*porn*^$document
 https://archive.org/*hentai*^$document
+https://archive.org/*eroge*^$document
 https://archive.org/*kigurumi*^$document
 https://archive.org/*animegao*^$document
 https://archive.org/*sexy*^$document
