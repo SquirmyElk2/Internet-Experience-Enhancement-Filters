@@ -22,8 +22,9 @@ instagram.com
 !Block Snapchat
 snapchat.com
 
-!Block Omegle
-omegle.com
+!Omegle no longer exists, many malware sites try to run off of its death. Might as well get rid of it entirely.
+omegle.*^$document
+google.*##a[href*="omegle."]:nth-ancestor(2)
 
 !Block Reddit
 reddit.com
