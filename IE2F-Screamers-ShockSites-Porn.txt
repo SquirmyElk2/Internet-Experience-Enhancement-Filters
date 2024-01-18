@@ -101,6 +101,13 @@ wikipedia.org/wiki/Vaginoplasty^$document
 wikipedia.org/wiki/Labiaplasty^$document
 wikipedia.org/wiki/Chondrolaryngoplasty^$document
 wikimedia.org/wiki/File:Gnaa-logo.png^$document
+!Wikimedia Commons Blockings
+wikimedia.org/*/*Animegao*^$document
+wikimedia.org/*/*Kigurumi*^$document
+wikimedia.org/*/*fetish*^$document
+wikimedia.org/*/*porn*^$document
+wikimedia.org/*/*hentai*^$document
+wikimedia.org/*/*bdsm*^$document
 !Wayback Machine Shock Sites
 archive.org/*clownsong^$document
 web.archive.org/web/*/clownsong^$document
