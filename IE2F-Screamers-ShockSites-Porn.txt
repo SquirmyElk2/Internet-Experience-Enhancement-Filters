@@ -53,9 +53,7 @@ wikipedia.org/wiki/Penis_reduction^$document
 wikipedia.org/wiki/Macropenis^$document
 wikipedia.org/wiki/Penis_enlargement^$document
 wikipedia.org/wiki/Phimosis^$document
-wikipedia.org/wiki/Vasectomy^$document
-wikipedia.org/wiki/Vasectomy_reversal^$document
-wikipedia.org/wiki/Post-vasectomy_pain_syndrome^$document
+wikipedia.org/wiki/Vasectom*^$document
 wikipedia.org/wiki/Intersex^$document
 wikipedia.org/wiki/Androgen_insensitivity_syndrome^$document
 wikipedia.org/wiki/Disorders_of_sex_development^$document
