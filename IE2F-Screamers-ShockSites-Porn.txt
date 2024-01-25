@@ -331,6 +331,8 @@ upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kanako_Miyamoto_at_Tokyo_Inter
 !Rogue TV Tropes Images
 ||static.tvtropes.org/pmwiki/pub/images/labluegirlkid_8290.jpg$image
 ||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUECG1WZ78jk71ACHUqpE9SuBfVLhOOs1nUAp_H6G3QW5U8AiQMwTsPS_8$image
+||static.tvtropes.org/pmwiki/pub/images/stephenfry_6006.jpg$image
+||encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthF4NWh7hl4AN_mqjR3j6ImXMp4dL6rTMl81nL_KpAK7nTYj1aE9uwAo-$image
 !Know Your Meme Image Blocking
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg
 i.kym-cdn.com/entries/icons/*/000/037/111/cover1.jpg^$document
