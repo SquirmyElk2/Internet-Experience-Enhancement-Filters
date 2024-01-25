@@ -63,6 +63,8 @@ wikipedia.org/wiki/Pseudohermaphroditism^$document
 wikipedia.org/wiki/Futanari^$document
 wikipedia.org/wiki/Animegao_kigurumi^$document
 wikipedia.org/wiki/*Kigurumi^$document
+wikipedia.org/wiki/*Kigurumi*^$document
+wikipedia.org/wiki/*Animegao*^$document
 wikipedia.org/wiki/Chancroid^$document
 wikipedia.org/wiki/Chancre^$document
 wikipedia.org/wiki/Syphilis^$document
