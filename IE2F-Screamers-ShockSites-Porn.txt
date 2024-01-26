@@ -567,8 +567,14 @@ web.archive.org/web/*/shafou.cn^$document
 web.archive.org/web/*/girl^$document
 web.archive.org/web/*/xxx^$document
 web.archive.org/web/*/porn^$document
-!Game Development Studios that Develops Erotic Video Games
+!Game Development Studios that Develop/Publish Erotic Video Games
 shadycorner.com
+mangagamer.org
+mangagamer.com
+jastusa.com
+jlist.com
+jbox.com
+schooldays.us
 
 !Block Certain YouTube Hashtags
 youtube.com/hashtag/jumpscares^$document
