@@ -41,6 +41,7 @@ wikipedia.org/wiki/Feminization_(activity)^$document
 wikipedia.org/wiki/*fetish^$document
 wikipedia.org/wiki/*fetishism^$document
 wikipedia.org/wiki/Category:*fetish*^$document
+wikipedia.org/wiki/Striptease^$document
 wikipedia.org/wiki/Meatspin^$document
 wikipedia.org/wiki/Coprophilia^$document
 wikipedia.org/wiki/Shock_site^$document
@@ -62,7 +63,6 @@ wikipedia.org/wiki/True_hermaphroditism^$document
 wikipedia.org/wiki/Pseudohermaphroditism^$document
 wikipedia.org/wiki/Futanari^$document
 wikipedia.org/wiki/Animegao_kigurumi^$document
-wikipedia.org/wiki/*Kigurumi^$document
 wikipedia.org/wiki/*Kigurumi*^$document
 wikipedia.org/wiki/*Animegao*^$document
 wikipedia.org/wiki/Chancroid^$document
@@ -92,6 +92,7 @@ wikipedia.org/wiki/Panchira^$document
 wikipedia.org/wiki/Gender-affirming_surgery^$document
 wikipedia.org/wiki/Gender-affirming_surgery_(male-to-female)^$document
 wikipedia.org/wiki/Gender-affirming_surgery_(female-to-male)^$document
+wikipedia.org/wiki/Genital_reconstruction_surgery^$document
 wikipedia.org/wiki/Phalloplasty^$document
 wikipedia.org/wiki/Metoidioplasty^$document
 wikipedia.org/wiki/Penile_implant^$document
