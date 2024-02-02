@@ -718,7 +718,6 @@ google.com/search?q=*shock*site*^$document,important
 google.com/search?q=*lemon*party*^$document,important
 google.com/search?q=*meat*spin*^$document,important
 google.com/search?q=*goatse*^$document,important
-google.com/search?q=*goatse*^$document,important
 google.com/search?q=*sour*math*^$document,important
 google.com/search?q=*fortn*burg*^$document,important
 google.com/search?q=*encyclopedia+dramatica*^$document,important
