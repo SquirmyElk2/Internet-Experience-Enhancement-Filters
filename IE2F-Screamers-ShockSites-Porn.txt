@@ -551,9 +551,9 @@ reddit.com/r/offbeat/comments/hsd81/how_to_troll_like_a_pro/^$document
 reddit.com/r/reddit.com/comments/az5ct/ok_so_i_just_clicked_what_appears_to_be_the_most/^$document
 reddit.com/r/AMA/comments/h0ess/i_founded_the_gnaa_ama/^$document
 reddit.com/r/GiIvaSunner/comments/51ei3w/original_source_of_loud_nigra/^$document
-reddit.com/r/*/search?q=*porn^$document
-reddit.com/r/*/search?q=*kigurumi^$document
-reddit.com/r/*/search?q=*animegao^$document
+reddit.com/*/search?q=*porn*^$document
+reddit.com/*/search?q=*kigu*^$document
+reddit.com/*/search?q=*animegao*^$document
 rumble.com/search/all?q=*kigurumi*^$document
 rumble.com/search/all?q=*animegao*^$document
 google.com###search .g:has-text(/Loud Nigra/i)
