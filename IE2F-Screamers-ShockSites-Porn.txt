@@ -92,6 +92,10 @@ wikipedia.org/wiki/Panchira^$document
 wikipedia.org/wiki/Gender-affirming_surgery^$document
 wikipedia.org/wiki/Gender-affirming_surgery_(male-to-female)^$document
 wikipedia.org/wiki/Gender-affirming_surgery_(female-to-male)^$document
+wikipedia.org/wiki/Sex_reassignment_surgery^$document
+wikipedia.org/wiki/*erotic*^$document
+wikipedia.org/wiki/*paraphilia*^$document
+wikipedia.org/wiki/*paraphilic*^$document
 wikipedia.org/wiki/Genital_reconstruction_surgery^$document
 wikipedia.org/wiki/Phalloplasty^$document
 wikipedia.org/wiki/Metoidioplasty^$document
