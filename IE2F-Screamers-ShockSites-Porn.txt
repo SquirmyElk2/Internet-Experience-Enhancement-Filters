@@ -69,6 +69,7 @@ wikipedia.org/wiki/Chancroid^$document
 wikipedia.org/wiki/Chancre^$document
 wikipedia.org/wiki/Syphilis^$document
 wikipedia.org/wiki/Anorchia^$document
+wikipedia.org/wiki/Cystocele^$document
 wikipedia.org/wiki/LemonParty^$document
 wikipedia.org/wiki/Goatse.cx^$document
 wikipedia.org/wiki/Gay_Nigger_Association_of_America^$document
