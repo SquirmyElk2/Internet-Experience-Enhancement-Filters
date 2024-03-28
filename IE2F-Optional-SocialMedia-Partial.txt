@@ -30,6 +30,9 @@ google.*##a[href*="omegle."]:nth-ancestor(2)
 4chan.org
 4channel.org
 
+!Block Kick
+kick.com
+
 !Block MySpace
 myspace.com
 
