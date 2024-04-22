@@ -525,6 +525,7 @@ redd.tube
 bats.fyi
 wasd.ms
 warosu.org
+dynasty-scans.com
 kemono.party
 theannoyingsite.com
 winterrowd.com
