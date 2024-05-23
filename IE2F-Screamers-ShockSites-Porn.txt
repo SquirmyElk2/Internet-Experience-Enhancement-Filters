@@ -588,6 +588,7 @@ jastusa.com
 jlist.com
 jbox.com
 schooldays.us
+dlsite.com
 
 !Block Certain YouTube Hashtags
 youtube.com/hashtag/jumpscares^$document
