@@ -333,6 +333,8 @@ https://upload.wikimedia.org/wikipedia/commons/0/01/Casts_%26_Crew_from_%22Go%21
 ||upload.wikimedia.org/wikipedia/commons/*f/f2/*Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg$image,important
 upload.wikimedia.org/wikipedia/commons/f/f2/Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg^$document
 upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg/220px-Kanako_Miyamoto_at_Tokyo_International_Film_Festival_2013-10-17.jpg^$document
+||upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E7%B5%90%E4%BD%B3%E6%A2%A8Yukari_JK_14.jpg/*0px-%E7%B5%90%E4%BD%B3%E6%A2%A8Yukari_JK_14.jpg$image,important
+upload.wikimedia.org/wikipedia/commons/7/74/%E7%B5%90%E4%BD%B3%E6%A2%A8Yukari_JK_14.jpg^$document
 !TV Tropes Regan MacNeil
 ||static.tvtropes.org/pmwiki/pub/images/rsz_regan.png$image
 ||encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9qkAH41wvshAPoO71bitZUHsNfx7F8bcfdFerifRwrqkG-VXeIw8-6ei2$image
