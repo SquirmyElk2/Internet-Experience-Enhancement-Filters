@@ -5,6 +5,9 @@ twitter.com
 !Block Twitter Search Bar
 twitter.com##.r-136ojw6.r-1hycxz.r-ipm5af.r-1xcajam.r-15ysp7h.r-6gpygo.r-1h3ijdo.r-18u37iz.r-kemksi.r-aqfbo4.r-1awozwy.css-1dbjc4n
 twitter.com##.r-itp27i.r-4amgru.r-1wbh5a2.r-16y2uox.r-18u37iz.r-1awozwy.css-1dbjc4n
+!Twitter Alternatives
+threads.net
+bsky.app
 
 !Block Facebook
 facebook.com
