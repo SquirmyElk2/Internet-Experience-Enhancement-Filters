@@ -72,6 +72,3 @@ tumblr.com
 
 !Block TV Tropes
 tvtropes.org
-
-!Block Threads
-threads.net
