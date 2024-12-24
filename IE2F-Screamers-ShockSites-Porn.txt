@@ -768,6 +768,7 @@ avid.miraheze.org/*nsfw*^$document
 avid.wiki/Forum:An_idea_regarding_the_NSFW_template^$document
 avid.wiki/*nsfw*^$document
 avid.wiki/Category:*adult_entertainment_logos*^$document
+avid.wiki/Category:*Pornographic_media_logos*^$document
 
 !Spam Sites (Porn)
 doppelsbangers.com
