@@ -9,6 +9,8 @@ twitter.com##.r-itp27i.r-4amgru.r-1wbh5a2.r-16y2uox.r-18u37iz.r-1awozwy.css-1dbj
 !Twitter Alternatives
 threads.net
 bsky.app
+!Twitter Mirrors
+xcancel.com
 
 !Block Facebook
 facebook.com
