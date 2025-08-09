@@ -87,6 +87,7 @@ wikipedia.org/wiki/*Pornographic*^$document
 wikipedia.org/wiki/Hentai^$document
 wikipedia.org/wiki/Eroge^$document
 wikipedia.org/wiki/Alt_porn^$document
+wikipedia.org/wiki/Stag_film^$document
 wikipedia.org/wiki/*BDSM*^$document
 wikipedia.org/wiki/Dominance_and_submission^$document
 wikipedia.org/wiki/Panchira^$document
@@ -849,3 +850,4 @@ google.*##a[href*="vndb.org"]:nth-ancestor(2)
 google.com###search .g:has-text(/Mr. Hands/i)
 google.com###search .g:has-text(/Mr Hands/i)
 google.com###search .g:has-text(/MrHands/i)
+
